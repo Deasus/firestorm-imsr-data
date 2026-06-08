@@ -1,0 +1,68 @@
+name: Update IMSR Data (NICC Incident Management Situation Report)
+
+# CADENCE: every 15 min via self-redispatch loop. Same family pattern as
+# firestorm-ngfs-data / firestorm-goes-fire-data / firestorm-lightning-data.
+# GHA `schedule` is throttled to ~hourly on free runners; we use a
+# `*/15 * * * *` schedule as the dead-man restart and re-dispatch from
+# inside the job to keep ~15-min cadence honest.
+#
+# IMSR is published once daily by NICC (~06:30 MT) but sometimes re-published
+# with corrections later in the day. 15-min cron catches updates within an
+# operationally tolerable window without hammering nifc.gov.
+#
+# Watchdog: data/health.json tracks consecutive_failures. If the pipeline
+# starts hitting the "degraded" threshold (4+ consecutive 15-min misses =
+# ~1 hour of silence), that's the signal to dial cron back to hourly and
+# investigate (URL change, NIFC rate-limit, etc.).
+#
+# Public repo → unlimited free GHA minutes.
+on:
+  schedule:
+    - cron: '*/15 * * * *'       # dead-man restart; real cadence is the self-loop
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write                  # self re-dispatch
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: update-imsr
+      cancel-in-progress: false
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install pdfplumber
+        run: pip install --quiet pdfplumber
+
+      - name: Fetch + parse IMSR
+        run: |
+          git config user.name  'firestorm-bot'
+          git config user.email 'firestorm-bot@users.noreply.github.com'
+          python fetch_imsr.py || echo 'fetch failed (health.json will record)'
+          git add data/
+          if git diff --cached --quiet; then
+            echo 'No change'
+          else
+            git commit -m "imsr update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase --autostash origin main || true
+            git push || echo 'push failed (will retry next dispatch)'
+          fi
+
+      - name: Self re-dispatch in ~15 min
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Sleep slightly under 15 min so the next cycle starts close to the
+          # quarter-hour boundary. We deliberately avoid drifting into the next
+          # cron window where the schedule-trigger would also fire.
+          sleep 850
+          gh workflow run update-imsr.yml || echo 'self-dispatch failed (cron will recover)'
