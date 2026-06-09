@@ -185,7 +185,7 @@
       "new_fires": 0,
       "new_large_incidents": 0,
       "uncontained_large_fires": 1,
-      "narrative": "Kopshesut, Galena Zone, BLM. One mile west of Ambler, AK. Timber and grass. Moderate fire behavior with creeping, smoldering and backing. Numerous structures threatened. Area, road and trail closures in effect. Reduction in acreage due to more accurate mapping."
+      "narrative": "Kopshesut, Galena Zone, BLM. Started on Alaska Native Corporation land one mile west of Ambler, AK. Timber and grass. Moderate fire behavior with creeping, smoldering and backing. Numerous structures threatened. Area, road and trail closures in effect. Reduction in acreage due to more accurate mapping."
     }
   ],
   "yesterday_by_protection": {
@@ -661,11 +661,11 @@
     }
   },
   "predictive_services_discussion": "Widespread elevated to critical conditions will develop across much of the eastern Great Basin, Southwest, west of the Divide, and central Rockies today. Southwest winds 15-30 mph with gusts 30-45 mph will develop amid relative humidity of 5-15%. Isolated dry thunderstorms are also expected along the northern Front Range of Colorado into eastern Wyoming, as well as much of northwest New Mexico. Across eastern Oregon, western Nevada, and southwest Idaho, breezy west winds will gust to 40 mph, but humidity is expected to remain near or above 15% keeping elevated conditions isolated. Rain, with high elevation snow, will move into the Cascades during the day with light precipitation spreading east of the Cascade crest overnight into the Inland Northwest and western Idaho. In the eastern U.S., scattered showers and thunderstorms will develop on the central Plains and from the Tennessee Valley northward into the Great Lakes. However, precipitation is expected to be much more isolated across portions of northern Minnesota and northeast Lower Michigan. Dry conditions will persist in the Mid- Atlantic to the Northeast, but relative humidity will be higher and generally above 30%. In Alaska, cool and moist conditions are expected as an Arctic low moves through, with scattered light showers.",
-  "generated_utc": "2026-06-08T22:51:20Z",
+  "generated_utc": "2026-06-09T00:10:29Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
-  "pdf_bytes": 203424,
+  "pdf_bytes": 203810,
   "fetch": {
-    "fetched_utc": "2026-06-08T22:51:19Z",
+    "fetched_utc": "2026-06-09T00:10:28Z",
     "duration_seconds": 0.22
   }
 }
