@@ -1,8 +1,8 @@
 {
-  "last_success_utc": "2026-06-11T09:15:53Z",
+  "last_success_utc": "2026-06-11T13:02:35Z",
   "consecutive_failures": 0,
   "status": "ok",
-  "last_attempt_utc": "2026-06-11T09:15:53Z",
-  "last_notes": "parsed pl=2 large_fires=10",
+  "last_attempt_utc": "2026-06-11T13:02:35Z",
+  "last_notes": "parsed pl=2 large_fires=12",
   "cadence_minutes": 15
 }
