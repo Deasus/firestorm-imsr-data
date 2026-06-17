@@ -149,7 +149,7 @@
       "new_fires": 15,
       "new_large_incidents": 3,
       "uncontained_large_fires": 2,
-      "narrative": "* Sawmill, Color Country Paria Unit, BLM. Forty-four miles southeast of Cedar City, UT. Chaparral and grass. Extreme fire behavior with short crown runs and running. Residences threatened. Evacuations, area and road closures in effect. Dellenbaugh, Lake Mead National Recreation Area, NPS. Eighty miles south of St. George, AZ. Timber. Moderate fire behavior with torching. Residences threatened. * Rock Canyon, Northern District, Arizona DOF. Twenty miles southeast of Fredonia, AZ. Timber, brush and grass. Extreme fire behavior with group torching, long-range spotting and running. Area, road and trail closures in effect."
+      "narrative": "* Sawmill, Color Country Paria Unit, BLM. Forty-four miles southeast of Cedar City, UT. Chaparral and grass. Extreme fire behavior with short crown runs and running. Residences threatened. Evacuations, area and road closures in effect. Dellenbaugh, Lake Mead National Recreation Area, NPS. Eighty miles south of St. George, UT. Timber. Moderate fire behavior with torching. Residences threatened. * Rock Canyon, Northern District, Arizona DOF. Twenty miles southeast of Fredonia, AZ. Timber, brush and grass. Extreme fire behavior with group torching, long-range spotting and running. Area, road and trail closures in effect."
     },
     {
       "gacc": "RMCC",
@@ -662,11 +662,11 @@
     }
   },
   "predictive_services_discussion": "Widespread elevated to critical conditions will persist across much of the West today. Across these areas, variable winds between 15-25 mph and relative humidity values between 5-15% are expected, with gusts up to 35 mph across the Snake River Plain, northeastern Utah, southern Wyoming, and central Colorado. Breezy conditions will persist across the Northwest, but winds will be lower than yesterday. Temperatures nearing or exceeding 100 degrees are expected across the central California valleys and large portions of the Desert Southwest as well as the southern Great Plains and western Texas. Mixed wet and dry storms expected from northwest Arizona to southwest New Mexico today, with a chance for lightning across high elevations of the Sierra south of Tahoe later this afternoon into the evening. In the eastern U.S., scattered showers and thunderstorms will continue from the Dakotas east across the Great Lakes Region and portions of the Northeast, as well as from the Gulf Coast of Texas through parts of the Carolinas, with the heaviest precipitation is expected across the Great Lakes region. Hot and dry conditions will accompany isolated storm potential across Florida leading to elevated conditions. In Alaska, moderate conditions are expected with a chance for wet storms accompanied by lightning. Over central eastern Alaska, relative humidity values as low as 25% are expected, but winds will be light, less than 10 mph. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-06-17T19:37:47Z",
+  "generated_utc": "2026-06-17T21:46:27Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
-  "pdf_bytes": 192807,
+  "pdf_bytes": 193215,
   "fetch": {
-    "fetched_utc": "2026-06-17T19:37:46Z",
-    "duration_seconds": 0.36
+    "fetched_utc": "2026-06-17T21:46:25Z",
+    "duration_seconds": 0.35
   }
 }
