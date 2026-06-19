@@ -662,11 +662,11 @@
     }
   },
   "predictive_services_discussion": "Hot and dry conditions will persist across the western third of the US today with more triple digit heat and single digit relative humidity across the Desert Southwest. Additionally expect locally breezy conditions in the afternoon and evening, especially over southern Utah and southern Nevada. More thunderstorms are also anticipated over the northern Sierra and southeast Arizona, southern New Mexico and west Texas during the afternoon and evening. These storms will produce spotty rainfall. Over the remainder of the Lower 48 states, most locations will experience cool and wet weather. The exception will occur along the Eastern Seaboard where temperatures will reach the 90s with relative humidity values below 40% before a cold front pushes through in the afternoon. Over Alaska expect drying conditions with warming temperatures, especially over the interior. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-06-19T05:29:12Z",
+  "generated_utc": "2026-06-19T10:03:44Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 199544,
   "fetch": {
-    "fetched_utc": "2026-06-19T05:29:10Z",
-    "duration_seconds": 0.28
+    "fetched_utc": "2026-06-19T10:03:43Z",
+    "duration_seconds": 0.27
   }
 }
