@@ -673,11 +673,11 @@
     }
   },
   "predictive_services_discussion": "Hot and unstable conditions, along with widespread single digit relative humidity this afternoon will result in a critical burn environment across much of Arizona, New Mexico and far southern Utah. Winds will ease a bit from the last few days, but westerly gusts of 20-30 mph will be common. Very hot, dry and breezy conditions will expand into the Southern Plains, where fuels are not as receptive as farther west. Drier weather will return to the northern Intermountain West, and lightning holdovers could continue to emerge as relative humidity falls into the 10-20% range. Breezy conditions in the Snake River Plain will lead to locally elevated fire weather there. Widespread thunderstorms are in store for the Alaska Interior, likely resulting in abundant new ignitions, along with the potential for erratic outflow winds. Temperatures will remain very warm throughout the Interior ahead of any rainfall. Severe thunderstorms and flooding rain will target the Midwest, while the Gulf Coast may see localized flooding from scattered afternoon thunderstorms. Thunderstorm coverage will be lower over the Florida peninsula, and new lightning ignitions will be possible where rainfall has been lighter recently. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-06-21T21:57:38Z",
+  "generated_utc": "2026-06-21T23:25:22Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 210716,
   "fetch": {
-    "fetched_utc": "2026-06-21T21:57:36Z",
-    "duration_seconds": 0.29
+    "fetched_utc": "2026-06-21T23:25:21Z",
+    "duration_seconds": 0.3
   }
 }
