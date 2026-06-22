@@ -1,203 +1,90 @@
 {
   "summary": {
-    "report_date_human": "Sunday June 21, 2026",
+    "report_date_human": "Monday June 22, 2026",
     "report_time": "0730 MDT",
     "national_preparedness_level": 3,
-    "initial_attack_activity": "Light (103 fires)",
+    "initial_attack_activity": "Light (87 fires)",
     "new_large_incidents": 8,
-    "large_fires_contained": 1,
-    "uncontained_large_fires": 34,
-    "cimts_committed": 4,
+    "large_fires_contained": 7,
+    "uncontained_large_fires": 31,
+    "cimts_committed": 2,
     "nimos_committed": 0
   },
-  "resource_summary": [
-    {
-      "gacc": "AICC",
-      "incidents": 3,
-      "cumulative_acres": 1991,
-      "crews": 3,
-      "engines": 2,
-      "helicopters": 2,
-      "total_personnel": 91,
-      "change_in_personnel": 22
-    },
-    {
-      "gacc": "NWCC",
-      "incidents": 11,
-      "cumulative_acres": 74881,
-      "crews": 31,
-      "engines": 85,
-      "helicopters": 3,
-      "total_personnel": 1173,
-      "change_in_personnel": -239
-    },
-    {
-      "gacc": "ONCC",
-      "incidents": 0,
-      "cumulative_acres": 860,
-      "crews": 0,
-      "engines": 0,
-      "helicopters": 0,
-      "total_personnel": 0,
-      "change_in_personnel": 0
-    },
-    {
-      "gacc": "OSCC",
-      "incidents": 5,
-      "cumulative_acres": 14221,
-      "crews": 9,
-      "engines": 30,
-      "helicopters": 0,
-      "total_personnel": 340,
-      "change_in_personnel": -758
-    },
-    {
-      "gacc": "NRCC",
-      "incidents": 1,
-      "cumulative_acres": 217,
-      "crews": 5,
-      "engines": 4,
-      "helicopters": 1,
-      "total_personnel": 182,
-      "change_in_personnel": 4
-    },
-    {
-      "gacc": "GBCC",
-      "incidents": 14,
-      "cumulative_acres": 51010,
-      "crews": 33,
-      "engines": 97,
-      "helicopters": 14,
-      "total_personnel": 1543,
-      "change_in_personnel": 463
-    },
-    {
-      "gacc": "SWCC",
-      "incidents": 9,
-      "cumulative_acres": 15340,
-      "crews": 22,
-      "engines": 50,
-      "helicopters": 19,
-      "total_personnel": 1291,
-      "change_in_personnel": 440
-    },
-    {
-      "gacc": "RMCC",
-      "incidents": 2,
-      "cumulative_acres": 40032,
-      "crews": 3,
-      "engines": 12,
-      "helicopters": 2,
-      "total_personnel": 266,
-      "change_in_personnel": -91
-    },
-    {
-      "gacc": "EACC",
-      "incidents": 1,
-      "cumulative_acres": 241,
-      "crews": 0,
-      "engines": 0,
-      "helicopters": 0,
-      "total_personnel": 2,
-      "change_in_personnel": 0
-    },
-    {
-      "gacc": "SACC",
-      "incidents": 18,
-      "cumulative_acres": 42146,
-      "crews": 0,
-      "engines": 70,
-      "helicopters": 10,
-      "total_personnel": 418,
-      "change_in_personnel": -24
-    },
-    {
-      "gacc": "Total",
-      "incidents": 64,
-      "cumulative_acres": 240939,
-      "crews": 106,
-      "engines": 350,
-      "helicopters": 51,
-      "total_personnel": 5306,
-      "change_in_personnel": -183
-    }
-  ],
+  "resource_summary": [],
   "gacc_sections": [
     {
       "gacc": "GBCC",
       "area": "Great Basin Area",
       "preparedness_level": 3,
-      "new_fires": 18,
-      "new_large_incidents": 5,
-      "uncontained_large_fires": 10,
+      "new_fires": 15,
+      "new_large_incidents": 1,
+      "uncontained_large_fires": 11,
       "cimts_committed": 1,
-      "narrative": "* Iron, Central Area, Utah DOF. CIMT (GB Team 3) mobilizing. Two miles northwest of Eureka, UT. Chaparral and grass. Extreme fire behavior with running, spotting and torching. Numerous structures and energy infrastructure threatened. Road closures in effect. Grapevine, Ely District, BLM. Ten miles southeast of Caliente, NV. Timber and brush. Extreme fire behavior with wind-driven runs, torching and short-range spotting. Sawmill, Color Country Paria Unit, BLM. Forty-four miles northwest of Cedar City, UT. Dormant brush and grass. Extreme fire behavior with running, torching and spotting. Structures threatened. Area and road closures in effect. Kane Springs, Ely District, BLM. Seventeen miles southwest of Caliente, NV. Grass and brush. Active fire behavior with uphill runs, isolated torching and flanking. Railroad infrastructure threatened. Rock Canyon, Northern District, Arizona DOF. Twenty miles southeast of Fredonia, AZ. Timber, brush and grass. Minimal fire behavior with single tree torching, creeping and smoldering. Area, road and trail closures in effect. Dellenbaugh, Lake Mead National Recreation Area, NPS. Eighty miles south of St. George, UT. Timber. Minimal fire behavior with creeping and smoldering. Residences threatened. * Shyster, Winnemucca District, BLM. Fifteen miles south of Denio, NV. Brush and grass. Active fire behavior with wind-driven runs, backing and flanking. Energy infrastructure threatened. * Hastings, West Desert District, BLM. Fifty-six miles west of Salt Lake City, UT. Chaparral. Extreme fire behavior with running and torching. Structures threatened. * Mary, Boise District, BLM. Sixty miles south of Mountain Home, ID. Grass and brush. Moderate fire behavior with running, flanking and backing. Structures threatened. * Middlefork, Northwest Area, Utah DOF. Thirty-eight miles northeast of Salt Lake City, UT. Brush. Active fire behavior with running and smoldering."
+      "narrative": "Iron, Central Area, Utah DOF. CIMT (GB Team 3). One mile northwest of Eureka, UT. Chaparral and grass. Extreme fire behavior with short crown runs, uphill runs and wind-driven runs. Numerous structures threatened. Area and road closures in effect. * Bonneville, Uinta-Wasatch-Cache NF, USFS. Three miles east of Salt Lake City, UT. Grass, brush and hardwood litter. Active fire behavior with running, backing and creeping. Numerous residences threatened. Road and trail closures in effect. Sawmill, Color Country Paria Unit, BLM. Forty-four miles northwest of Cedar City, UT. Dormant brush and grass. Moderate fire behavior with creeping, smoldering and isolated torching. Structures threatened. Area and road closures in effect. Hastings, West Desert District, BLM. Fifty-six miles west of Salt Lake City, UT. Chaparral. Extreme fire behavior. Structures threatened. Grapevine, Ely District, BLM. Ten miles southeast of Caliente, NV. Timber and brush. Extreme fire behavior with running, spotting and torching. Middlefork, Bear River Area, Utah DOF. Thirty-eight miles northeast of Salt Lake City, UT. Brush and grass. Moderate fire behavior with creeping and smoldering. Energy infrastructure threatened. Area, road and trail closures in effect. Kane Springs, Ely District, BLM. Seventeen miles southwest of Caliente, NV. Grass, brush and timber. Active fire behavior with uphill runs, group torching and spotting. Railroad infrastructure threatened. Rock Canyon, Northern District, Arizona DOF. Twenty miles southeast of Fredonia, AZ. Timber, brush and grass. Minimal fire behavior with single tree torching, creeping and smoldering. Area, road and trail closures in effect. Shyster, Winnemucca District, BLM. Previously reported as 020281. Fifteen miles south of Denio, NV. Brush and grass. Minimal fire behavior. Reduction in acreage due to more accurate mapping. Mary, Boise District, BLM. Sixty miles south of Mountain Home, ID. Grass and brush. Minimal fire behavior with smoldering. Last report unless significant activity occurs. Dellenbaugh, Lake Mead National Recreation Area, NPS. Eighty miles south of St. George, UT. Timber. Minimal fire behavior with smoldering. Residences threatened. Last report unless significant activity occurs."
     },
     {
       "gacc": "SWCC",
       "area": "Southwest Area",
       "preparedness_level": 3,
-      "new_fires": 14,
-      "new_large_incidents": 2,
+      "new_fires": 8,
+      "new_large_incidents": 1,
       "uncontained_large_fires": 5,
       "cimts_committed": 1,
-      "narrative": "Sycamore, Tonto NF, USFS. Fifteen miles north of Globe, AZ. Grass, chaparral and brush. Active fire behavior with group torching, spotting and running. Structures threatened. Area and road closures in effect. * Pocket, Coconino NF, USFS. CIMT (SW Team 2) mobilizing. Seven miles north of Sedona, AZ. Timber and brush. Active fire behavior with wind-driven runs, running and group torching. Numerous residences threatened. Evacuations, area and road closures in effect. * Deer Canyon, Bernalillo District, NM State Forestry. Four miles south of Mountainair, NM. Grass. Extreme fire behavior with wind-driven runs, short crown runs and short-range spotting. Residences threatened. Rio, Santa Fe NF, USFS. Fifteen miles east of Espanola, NM. Timber, brush and grass. Moderate fire behavior with isolated torching, backing and creeping. Bear, Gila NF, USFS. Eighteen miles southeast of Quemado, NM. Timber and brush. Minimal fire behavior with creeping and smoldering. Area closures in effect."
+      "narrative": "Sycamore, Tonto NF, USFS. Fifteen miles north of Globe, AZ. Grass, chaparral and brush. Active fire behavior with wind-driven runs, running and group torching. Structures and energy infrastructure threatened. Area and road closures in effect. Pocket, Coconino NF, USFS. CIMT (SW Team 2). Seven miles north of Sedona, AZ. Timber and chaparral. Minimal fire behavior with flanking, backing and creeping. Numerous structures threatened. Evacuations, area, road and trail closures in effect. * Flat, Fort Apache Agency, BIA. Nine miles southwest of Heber, AZ. Medium slash, brush and grass. Moderate fire behavior with group torching, wind-driven runs and backing. Bear, Gila NF, USFS. Eighteen miles southeast of Quemado, NM. Timber and brush. Minimal fire behavior with creeping and smoldering. Area closures in effect. Rio, Santa Fe NF, USFS. Fifteen miles west of Espanola, NM. Timber, brush and grass. Minimal fire behavior with smoldering."
     },
     {
       "gacc": "NWCC",
       "area": "Northwest Area",
       "preparedness_level": 2,
-      "new_fires": 13,
+      "new_fires": 14,
       "new_large_incidents": 1,
-      "uncontained_large_fires": 5,
-      "cimts_committed": 1,
-      "narrative": "Kartar, Colville Agency, BIA. Fifteen miles southeast of Omak, WA. Grass, timber and brush. Moderate fire behavior with running and backing. Structures threatened. Area and road closures in effect. Reduction in acreage due to more accurate mapping. Upriver, Northeast Region, Washington DNR. Started on private land one mile east of Spokane, WA. Timber and grass. Minimal fire behavior with smoldering. Numerous residences threatened. Area and trail closures in effect. Old Emigrant, Pendleton Unit, Oregon DOF. Six miles southeast of Pendleton, OR. Grass, brush and timber. Minimal fire behavior with creeping and smoldering. Residences threatened. Road closures in effect. Tule Rd, Yakama Agency, BIA. Transfer of command from CIMT (NW Team 2) back to the local unit will occur tomorrow. Five miles south of Toppenish, WA. Grass, brush and dormant brush. Minimal fire behavior with creeping and smoldering. * Dry Creek, Vale District, BLM. Ten miles southeast of Burns Junction, OR. Grass and brush. Active fire behavior with running and smoldering. Last report unless significant activity occurs."
-    },
-    {
-      "gacc": "OSCC",
-      "area": "Southern California Area",
-      "preparedness_level": 2,
-      "new_fires": 12,
-      "new_large_incidents": 0,
-      "uncontained_large_fires": 3,
-      "narrative": "Lost, Kern County Fire Department. Thirty-five miles west of Bakersfield, CA. Grass and brush. Minimal fire behavior with smoldering. Star, Kern County Fire Department. Sixteen miles east of Bakersfield, CA. Grass and brush. Minimal fire behavior. Shore, Riverside Unit, Cal Fire. Two miles west of Calimesa, CA. Grass and brush. Minimal fire behavior. Structures threatened. Last report unless significant activity occurs."
-    },
-    {
-      "gacc": "SACC",
-      "area": "Southern Area",
-      "preparedness_level": 1,
-      "new_fires": 10,
-      "new_large_incidents": 0,
-      "uncontained_large_fires": 7,
-      "narrative": "Coptic, Everglades National Park, NPS. Fifteen miles northwest of Homestead, FL. Grass. Moderate fire behavior. Numerous structures threatened. Well 13, Florida Forest Service. Five miles west of Medley, FL. Brush. Active fire behavior with backing and flanking. Rose Bay Canal, North Carolina Forest Service. Ten miles southwest of Fairfield, NC. Timber. Moderate fire behavior with smoldering. Rookery, Lake Woodruff NWR, FWS. Three miles northwest of Deland, FL. Grass. Minimal fire behavior. Shell, National Forests in Florida, USFS. Thirteen miles west of Deland, FL. Southern rough. Minimal fire behavior. Quarry 2, Florida Forest Service. Six miles west of Doral, FL. Brush. Active fire behavior with flanking and backing. Area and road closures in effect. Last report unless significant activity occurs."
+      "uncontained_large_fires": 2,
+      "narrative": "Kartar, Colville Agency, BIA. Fifteen miles southeast of Omak, WA. Grass, timber and brush. Moderate fire behavior with flanking and backing. Structures threatened. Area and road closures in effect. Upriver, Northeast Region, Washington DNR. Started on private land one mile east of Spokane, WA. Timber and grass. Minimal fire behavior with smoldering. Numerous residences threatened. Area and trail closures in effect."
     },
     {
       "gacc": "NRCC",
       "area": "Northern Rockies Area",
       "preparedness_level": 1,
-      "new_fires": 6,
-      "new_large_incidents": 0,
-      "uncontained_large_fires": 1,
-      "narrative": "Gold Run, Cataldo Area Office, IDL. Eight miles east of Kellogg, ID. Timber. Minimal fire behavior with creeping and smoldering. Energy infrastructure threatened. Reduction in acreage due to more accurate mapping."
+      "new_fires": 0,
+      "new_large_incidents": 1,
+      "uncontained_large_fires": 2,
+      "narrative": "* Shingle Creek, Craig Mountain Supervisory Area Office, IDL. Six miles southwest of Riggins, ID. Timber and grass. Moderate fire behavior with uphill runs, group torching and short-range spotting. Numerous structures threatened. Area, road and trail closures in effect. Gold Run, Cataldo Area Office, IDL. Eight miles east of Kellogg, ID. Timber. Minimal fire behavior with creeping and smoldering. Energy infrastructure threatened."
+    },
+    {
+      "gacc": "AICC",
+      "area": "Alaska Area",
+      "preparedness_level": 3,
+      "new_fires": 0,
+      "new_large_incidents": 3,
+      "uncontained_large_fires": 5,
+      "narrative": "* Starry, Fairbanks Area, Alaska DOF. One mile south of Anderson, AK. Timber. Moderate fire behavior with group torching and spotting. Structures and railroad infrastructure threatened. Evacuations, area and trail closures in effect. * Elliott Complex, Tanana Zone, BLM. Started on Alaska Native Corporation land 11 miles northwest of Minto, AK. Timber, brush and hardwood litter. Minimal fire behavior with smoldering. Bear, Tanana Zone, BLM. Started on NPS land 35 miles southeast of Lake Minchumina, AK. Timber and hardwood litter. Active fire behavior with running and isolated torching. * Nowitna, Southwest Area, Alaska DOF. Forty-five miles north of McGrath, AK. Timber. Active fire behavior with smoldering, creeping and running. Kilolitna, Tanana Zone, BLM. Started on FWS land 60 miles northwest of Rampart, AK. Brush and timber. No new information. Last narrative report unless new information is received."
     },
     {
       "gacc": "RMCC",
       "area": "Rocky Mountain Area",
       "preparedness_level": 2,
-      "new_fires": 7,
+      "new_fires": 8,
       "new_large_incidents": 0,
       "uncontained_large_fires": 1,
-      "cimts_committed": 1,
-      "narrative": "South Fork, Nebraska NF, USFS. Transfer of command from CIMT (RM Team 2) back to the local unit will occur today. Twelve miles west of Crawford, NE. Grass and timber. Minimal fire behavior with smoldering. Area closures in effect."
+      "narrative": "South Fork, Nebraska NF, USFS. Twelve miles west of Crawford, NE. Grass and timber. Minimal fire behavior with smoldering. Area closures in effect. Precipitation occurred over the fire area yesterday."
     },
     {
-      "gacc": "AICC",
-      "area": "Alaska Area",
+      "gacc": "SACC",
+      "area": "Southern Area",
+      "preparedness_level": 1,
+      "new_fires": 7,
+      "new_large_incidents": 1,
+      "uncontained_large_fires": 5,
+      "narrative": "* Corrections 13, Florida Forest Service. Started on private land one mile north of Trail Glades, FL. Grass. Moderate fire behavior with backing. Well 13, Florida Forest Service. Five miles west of Medley, FL. Brush. Moderate fire behavior with backing and flanking. Rose Bay Canal, North Carolina Forest Service. Ten miles southwest of Fairfield, NC. Timber. Moderate fire behavior with smoldering. Rookery, Lake Woodruff NWR, FWS. Three miles northwest of Deland, FL. Grass. Minimal fire behavior. Shell, National Forests in Florida, USFS. Thirteen miles west of Deland, FL. Southern rough. Minimal fire behavior."
+    },
+    {
+      "gacc": "OSCC",
+      "area": "Southern California Area",
       "preparedness_level": 2,
-      "new_fires": 0,
+      "new_fires": 19,
       "new_large_incidents": 0,
-      "uncontained_large_fires": 2,
-      "narrative": "Bear, Tanana Zone, BLM. Started on NPS land 35 miles southeast of Lake Minchumina, AK. Timber and hardwood litter. No new information. Kilolitna, Tanana Zone, BLM. Started on FWS land 60 miles northwest of Rampart, AK. Brush and timber. No new information."
+      "uncontained_large_fires": 0,
+      "narrative": null
     }
   ],
   "yesterday_by_protection": {
@@ -226,43 +113,43 @@
       {
         "area": "Northwest",
         "fires": {
-          "BIA": 0,
+          "BIA": 3,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 8,
-          "USFS": 5,
-          "TOTAL": 13
+          "ST_OT": 2,
+          "USFS": 9,
+          "TOTAL": 14
         },
         "acres": {
-          "BIA": 0,
+          "BIA": 2,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 191,
+          "ST_OT": 0,
           "USFS": 1,
-          "TOTAL": 192
+          "TOTAL": 3
         }
       },
       {
         "area": "Northern California",
         "fires": {
           "BIA": 0,
-          "BLM": 2,
+          "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 14,
-          "USFS": 7,
-          "TOTAL": 23
+          "ST_OT": 16,
+          "USFS": 0,
+          "TOTAL": 16
         },
         "acres": {
           "BIA": 0,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 29,
-          "USFS": 2,
-          "TOTAL": 31
+          "ST_OT": 21,
+          "USFS": 0,
+          "TOTAL": 21
         }
       },
       {
@@ -272,102 +159,102 @@
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 12,
-          "USFS": 0,
-          "TOTAL": 12
+          "ST_OT": 17,
+          "USFS": 2,
+          "TOTAL": 19
         },
         "acres": {
           "BIA": 0,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 41,
-          "USFS": 0,
-          "TOTAL": 41
+          "ST_OT": 197,
+          "USFS": 88,
+          "TOTAL": 285
         }
       },
       {
         "area": "Northern Rockies",
         "fires": {
-          "BIA": 1,
+          "BIA": 0,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 5,
+          "ST_OT": 0,
           "USFS": 0,
-          "TOTAL": 6
+          "TOTAL": 0
         },
         "acres": {
           "BIA": 0,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 4,
+          "ST_OT": 0,
           "USFS": 0,
-          "TOTAL": 4
+          "TOTAL": 0
         }
       },
       {
         "area": "Great Basin",
         "fires": {
           "BIA": 0,
-          "BLM": 8,
+          "BLM": 4,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 6,
-          "USFS": 4,
-          "TOTAL": 18
+          "ST_OT": 5,
+          "USFS": 5,
+          "TOTAL": 15
         },
         "acres": {
           "BIA": 0,
-          "BLM": 12200,
+          "BLM": 7735,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 4809,
-          "USFS": 2,
-          "TOTAL": 17011
+          "ST_OT": 17171,
+          "USFS": 503,
+          "TOTAL": 25411
         }
       },
       {
         "area": "Southwest",
         "fires": {
-          "BIA": 5,
+          "BIA": 3,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 3,
-          "USFS": 6,
-          "TOTAL": 14
+          "ST_OT": 2,
+          "USFS": 3,
+          "TOTAL": 8
         },
         "acres": {
-          "BIA": 11,
+          "BIA": 700,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 18,
-          "USFS": 42,
-          "TOTAL": 71
+          "ST_OT": 1,
+          "USFS": 2,
+          "TOTAL": 704
         }
       },
       {
         "area": "Rocky Mountain",
         "fires": {
-          "BIA": 1,
+          "BIA": 0,
           "BLM": 2,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 2,
+          "ST_OT": 4,
           "USFS": 2,
-          "TOTAL": 7
+          "TOTAL": 8
         },
         "acres": {
           "BIA": 0,
-          "BLM": 178,
+          "BLM": 0,
           "FWS": 0,
           "NPS": 0,
           "ST_OT": 0,
-          "USFS": 1,
-          "TOTAL": 179
+          "USFS": 0,
+          "TOTAL": 1
         }
       },
       {
@@ -399,38 +286,38 @@
           "FWS": 0,
           "NPS": 0,
           "ST_OT": 6,
-          "USFS": 1,
-          "TOTAL": 10
+          "USFS": 0,
+          "TOTAL": 7
         },
         "acres": {
           "BIA": 0,
           "BLM": 0,
-          "FWS": 0,
-          "NPS": 0,
-          "ST_OT": 158,
+          "FWS": 300,
+          "NPS": 300,
+          "ST_OT": 195,
           "USFS": 0,
-          "TOTAL": 2966
+          "TOTAL": 555
         }
       }
     ],
     "totals": {
       "fires": {
-        "BIA": 7,
-        "BLM": 12,
+        "BIA": 6,
+        "BLM": 6,
         "FWS": 0,
         "NPS": 0,
-        "ST_OT": 56,
-        "USFS": 25,
-        "TOTAL": 103
+        "ST_OT": 52,
+        "USFS": 21,
+        "TOTAL": 87
       },
       "acres": {
-        "BIA": 12,
-        "BLM": 12378,
-        "FWS": 0,
-        "NPS": 0,
-        "ST_OT": 5250,
-        "USFS": 47,
-        "TOTAL": 20495
+        "BIA": 702,
+        "BLM": 7736,
+        "FWS": 300,
+        "NPS": 300,
+        "ST_OT": 17586,
+        "USFS": 595,
+        "TOTAL": 26979
       }
     }
   },
@@ -440,42 +327,42 @@
         "area": "Alaska",
         "fires": {
           "BIA": 0,
-          "BLM": 38,
+          "BLM": 49,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 128,
+          "ST_OT": 141,
           "USFS": 9,
-          "TOTAL": 175
+          "TOTAL": 199
         },
         "acres": {
           "BIA": 0,
-          "BLM": 7524,
+          "BLM": 8574,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 383,
+          "ST_OT": 861,
           "USFS": 1,
-          "TOTAL": 7908
+          "TOTAL": 9436
         }
       },
       {
         "area": "Northwest",
         "fires": {
-          "BIA": 76,
+          "BIA": 79,
           "BLM": 57,
           "FWS": 12,
           "NPS": 5,
-          "ST_OT": 385,
-          "USFS": 132,
-          "TOTAL": 667
+          "ST_OT": 390,
+          "USFS": 141,
+          "TOTAL": 684
         },
         "acres": {
-          "BIA": 21393,
+          "BIA": 21394,
           "BLM": 23647,
           "FWS": 3396,
           "NPS": 2,
-          "ST_OT": 5341,
+          "ST_OT": 5342,
           "USFS": 2793,
-          "TOTAL": 56571
+          "TOTAL": 56574
         }
       },
       {
@@ -485,18 +372,18 @@
           "BLM": 6,
           "FWS": 0,
           "NPS": 2,
-          "ST_OT": 894,
-          "USFS": 142,
-          "TOTAL": 1046
+          "ST_OT": 910,
+          "USFS": 144,
+          "TOTAL": 1064
         },
         "acres": {
           "BIA": 1,
           "BLM": 6,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 2350,
-          "USFS": 142,
-          "TOTAL": 2499
+          "ST_OT": 2371,
+          "USFS": 149,
+          "TOTAL": 2527
         }
       },
       {
@@ -506,37 +393,37 @@
           "BLM": 32,
           "FWS": 3,
           "NPS": 9,
-          "ST_OT": 1557,
-          "USFS": 141,
-          "TOTAL": 1748
+          "ST_OT": 1574,
+          "USFS": 143,
+          "TOTAL": 1767
         },
         "acres": {
           "BIA": 1,
           "BLM": 6590,
           "FWS": 0,
           "NPS": 18402,
-          "ST_OT": 53653,
-          "USFS": 2844,
-          "TOTAL": 81489
+          "ST_OT": 53850,
+          "USFS": 2932,
+          "TOTAL": 81774
         }
       },
       {
         "area": "Northern Rockies",
         "fires": {
           "BIA": 92,
-          "BLM": 18,
+          "BLM": 19,
           "FWS": 4,
           "NPS": 2,
-          "ST_OT": 320,
+          "ST_OT": 318,
           "USFS": 81,
-          "TOTAL": 517
+          "TOTAL": 516
         },
         "acres": {
           "BIA": 2473,
-          "BLM": 1414,
+          "BLM": 1415,
           "FWS": 396,
           "NPS": 5,
-          "ST_OT": 17519,
+          "ST_OT": 17518,
           "USFS": 2153,
           "TOTAL": 23959
         }
@@ -545,63 +432,63 @@
         "area": "Great Basin",
         "fires": {
           "BIA": 10,
-          "BLM": 221,
+          "BLM": 225,
           "FWS": 0,
-          "NPS": 7,
-          "ST_OT": 347,
-          "USFS": 66,
-          "TOTAL": 651
+          "NPS": 8,
+          "ST_OT": 353,
+          "USFS": 71,
+          "TOTAL": 667
         },
         "acres": {
           "BIA": 2770,
-          "BLM": 74172,
+          "BLM": 81908,
           "FWS": 0,
-          "NPS": 501,
-          "ST_OT": 10699,
-          "USFS": 9101,
-          "TOTAL": 97244
+          "NPS": 502,
+          "ST_OT": 27871,
+          "USFS": 9604,
+          "TOTAL": 122655
         }
       },
       {
         "area": "Southwest",
         "fires": {
-          "BIA": 326,
-          "BLM": 85,
+          "BIA": 329,
+          "BLM": 86,
           "FWS": 3,
           "NPS": 6,
-          "ST_OT": 475,
-          "USFS": 347,
-          "TOTAL": 1242
+          "ST_OT": 477,
+          "USFS": 350,
+          "TOTAL": 1251
         },
         "acres": {
-          "BIA": 743,
+          "BIA": 1443,
           "BLM": 2007,
           "FWS": 3980,
           "NPS": 208,
-          "ST_OT": 70703,
-          "USFS": 59872,
-          "TOTAL": 137513
+          "ST_OT": 70704,
+          "USFS": 64614,
+          "TOTAL": 142956
         }
       },
       {
         "area": "Rocky Mountain",
         "fires": {
           "BIA": 81,
-          "BLM": 77,
+          "BLM": 80,
           "FWS": 11,
           "NPS": 14,
-          "ST_OT": 449,
-          "USFS": 121,
-          "TOTAL": 753
+          "ST_OT": 454,
+          "USFS": 124,
+          "TOTAL": 764
         },
         "acres": {
           "BIA": 1418,
-          "BLM": 996,
+          "BLM": 997,
           "FWS": 1885,
           "NPS": 1406,
-          "ST_OT": 1070875,
+          "ST_OT": 1070929,
           "USFS": 85754,
-          "TOTAL": 1162334
+          "TOTAL": 1162390
         }
       },
       {
@@ -611,18 +498,18 @@
           "BLM": 0,
           "FWS": 18,
           "NPS": 6,
-          "ST_OT": 6297,
+          "ST_OT": 6298,
           "USFS": 263,
-          "TOTAL": 6739
+          "TOTAL": 6740
         },
         "acres": {
           "BIA": 1083,
           "BLM": 0,
           "FWS": 115,
           "NPS": 7,
-          "ST_OT": 62751,
+          "ST_OT": 62752,
           "USFS": 6276,
-          "TOTAL": 70232
+          "TOTAL": 70233
         }
       },
       {
@@ -630,54 +517,54 @@
         "fires": {
           "BIA": 615,
           "BLM": 1,
-          "FWS": 60,
-          "NPS": 70,
-          "ST_OT": 19110,
+          "FWS": 61,
+          "NPS": 71,
+          "ST_OT": 19116,
           "USFS": 522,
-          "TOTAL": 20378
+          "TOTAL": 20386
         },
         "acres": {
           "BIA": 75436,
           "BLM": 72,
-          "FWS": 8235,
-          "NPS": 31322,
-          "ST_OT": 872794,
+          "FWS": 8635,
+          "NPS": 26607,
+          "ST_OT": 872988,
           "USFS": 57779,
-          "TOTAL": 1045637
+          "TOTAL": 1041517
         }
       }
     ],
     "totals": {
       "fires": {
-        "BIA": 1363,
-        "BLM": 535,
-        "FWS": 111,
-        "NPS": 121,
-        "ST_OT": 29962,
-        "USFS": 1824,
-        "TOTAL": 33916
+        "BIA": 1369,
+        "BLM": 555,
+        "FWS": 112,
+        "NPS": 123,
+        "ST_OT": 30031,
+        "USFS": 1848,
+        "TOTAL": 34038
       },
       "acres": {
-        "BIA": 105319,
-        "BLM": 116429,
-        "FWS": 18007,
-        "NPS": 51852,
-        "ST_OT": 2167066,
-        "USFS": 226714,
-        "TOTAL": 2685387
+        "BIA": 106021,
+        "BLM": 125215,
+        "FWS": 18407,
+        "NPS": 47139,
+        "ST_OT": 2185184,
+        "USFS": 232055,
+        "TOTAL": 2714021
       }
     },
     "ten_year_average": {
-      "fires": 25215,
-      "acres": 1660986
+      "fires": 25388,
+      "acres": 1678063
     }
   },
-  "predictive_services_discussion": "Hot and unstable conditions, along with widespread single digit relative humidity this afternoon will result in a critical burn environment across much of Arizona, New Mexico and far southern Utah. Winds will ease a bit from the last few days, but westerly gusts of 20-30 mph will be common. Very hot, dry and breezy conditions will expand into the Southern Plains, where fuels are not as receptive as farther west. Drier weather will return to the northern Intermountain West, and lightning holdovers could continue to emerge as relative humidity falls into the 10-20% range. Breezy conditions in the Snake River Plain will lead to locally elevated fire weather there. Widespread thunderstorms are in store for the Alaska Interior, likely resulting in abundant new ignitions, along with the potential for erratic outflow winds. Temperatures will remain very warm throughout the Interior ahead of any rainfall. Severe thunderstorms and flooding rain will target the Midwest, while the Gulf Coast may see localized flooding from scattered afternoon thunderstorms. Thunderstorm coverage will be lower over the Florida peninsula, and new lightning ignitions will be possible where rainfall has been lighter recently. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-06-22T13:22:03Z",
+  "predictive_services_discussion": "A high pressure ridge aloft will rebuild across the West today, bringing a warming and drying trend to the region. Relative humidity throughout the southern Intermountain West will fall into the single digits, and combined with breezy southwesterly winds, elevated to locally critical fire weather is likely. Lightning holdovers could emerge across portions of the northern Intermountain West that saw thunderstorms Friday into Saturday. Relative humidity will fall to as low as 10-20% away from the immediate cooling influence of the Pacific, with areas of single digit relative humidity possible across southeast Oregon into southern Idaho. Westerly wind gusts up to 30 mph will bring elevated fire weather to the Snake River Plain. Drought impacts, high temperatures well into the 90s and breezy conditions will lead to increasing fire risks in the Carolinas, while scattered thunderstorms may bring new ignitions and gusty outflow winds to the Florida peninsula. Alaska will continue to see scattered showers and thunderstorms, with new lightning ignitions most likely in the central and eastern Interior. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
+  "generated_utc": "2026-06-22T18:05:09Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
-  "pdf_bytes": 210716,
+  "pdf_bytes": 218859,
   "fetch": {
-    "fetched_utc": "2026-06-22T13:22:01Z",
-    "duration_seconds": 1.05
+    "fetched_utc": "2026-06-22T18:05:08Z",
+    "duration_seconds": 0.24
   }
 }
