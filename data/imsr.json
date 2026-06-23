@@ -560,11 +560,11 @@
     }
   },
   "predictive_services_discussion": "A high pressure ridge aloft will rebuild across the West today, bringing a warming and drying trend to the region. Relative humidity throughout the southern Intermountain West will fall into the single digits, and combined with breezy southwesterly winds, elevated to locally critical fire weather is likely. Lightning holdovers could emerge across portions of the northern Intermountain West that saw thunderstorms Friday into Saturday. Relative humidity will fall to as low as 10-20% away from the immediate cooling influence of the Pacific, with areas of single digit relative humidity possible across southeast Oregon into southern Idaho. Westerly wind gusts up to 30 mph will bring elevated fire weather to the Snake River Plain. Drought impacts, high temperatures well into the 90s and breezy conditions will lead to increasing fire risks in the Carolinas, while scattered thunderstorms may bring new ignitions and gusty outflow winds to the Florida peninsula. Alaska will continue to see scattered showers and thunderstorms, with new lightning ignitions most likely in the central and eastern Interior. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-06-23T01:24:29Z",
+  "generated_utc": "2026-06-23T05:45:09Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 218859,
   "fetch": {
-    "fetched_utc": "2026-06-23T01:24:28Z",
-    "duration_seconds": 0.33
+    "fetched_utc": "2026-06-23T05:45:07Z",
+    "duration_seconds": 0.31
   }
 }
