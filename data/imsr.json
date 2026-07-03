@@ -553,11 +553,11 @@
     }
   },
   "predictive_services_discussion": "National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-07-03T08:19:29Z",
+  "generated_utc": "2026-07-03T11:11:23Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 246506,
   "fetch": {
-    "fetched_utc": "2026-07-03T08:19:27Z",
-    "duration_seconds": 0.22
+    "fetched_utc": "2026-07-03T11:11:21Z",
+    "duration_seconds": 0.21
   }
 }
