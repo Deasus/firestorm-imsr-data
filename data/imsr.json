@@ -7,7 +7,7 @@
     "new_large_incidents": 2,
     "large_fires_contained": 1,
     "uncontained_large_fires": 40,
-    "cimts_committed": 13,
+    "cimts_committed": 12,
     "nimos_committed": 0
   },
   "resource_summary": [],
@@ -29,8 +29,8 @@
       "new_fires": 20,
       "new_large_incidents": 0,
       "uncontained_large_fires": 9,
-      "cimts_committed": 6,
-      "narrative": "Cottonwood, Fishlake NF, USFS. CIMT (GB Team 5). CIMT (GB Team 4) mobilizing. Five miles east of Beaver, UT. Timber, brush and light slash. Active fire behavior with torching, short-range spotting and short crown runs. Numerous residences and energy infrastructure threatened. Area, road and trail closures in effect. Wild Goose, Fishlake NF, USFS. CIMT (GB Team 7). Twelve miles northeast of Fillmore, UT. Timber, brush and grass. Active fire behavior with short crown runs, short-range spotting and flanking. Numerous structures and critical infrastructure threatened. Evacuations, area, road and trail closures in effect. Babylon, Manti-La Sal NF, USFS. CIMT (GB Team 2). Twenty-five miles southwest of Monticello, UT. Brush, closed timber litter and timber. Extreme fire behavior with wind-driven runs, running and flanking. Structures and communication infrastructure threatened. Area, road and trail closures in effect. Parsnip Peak, Ely District, BLM. Eighteen miles northwest of Pioche, NV. Timber and brush. Moderate fire behavior with creeping, single tree torching and smoldering. Kinky Creek, Bridger-Teton NF, USFS. Thirty-four miles northwest of Cora, WY. Timber. Minimal fire behavior with smoldering. Residences threatened. Area closures in effect. Cherry, West Desert District, BLM. Transfer of command from CIMT (GB Team 3) back to the local unit will occur tomorrow. Twenty-nine miles southwest of Santaquin, UT. Grass, brush and timber. Minimal fire behavior with creeping, isolated torching and smoldering. Residences threatened. Area and road closures in effect. Grapevine, Ely District, BLM. Ten miles southeast of Caliente, NV. Timber, brush and chaparral. Minimal fire behavior with creeping and smoldering. Area closures in effect. Snyder, Desert Rivers Fire and Aviation Management Unit, BLM. CIMT (RM Team 1). Thirteen miles west of Grand Junction, CO. Grass and brush. Minimal fire behavior with creeping and smoldering. Numerous residences threatened. Area, road and trail closures in effect. Reduction in acreage due to more accurate mapping. Dry Canyon, Ely District, BLM. Fourteen miles east of Pioche, NV. Timber and brush. Minimal fire behavior. Last report unless significant activity occurs."
+      "cimts_committed": 5,
+      "narrative": "Cottonwood, Fishlake NF, USFS. CIMT (GB Team 5). Five miles east of Beaver, UT. Timber, brush and light slash. Active fire behavior with torching, short-range spotting and short crown runs. Numerous residences and energy infrastructure threatened. Area, road and trail closures in effect. Wild Goose, Fishlake NF, USFS. CIMT (GB Team 7). Twelve miles northeast of Fillmore, UT. Timber, brush and grass. Active fire behavior with short crown runs, short-range spotting and flanking. Numerous structures and critical infrastructure threatened. Evacuations, area, road and trail closures in effect. Babylon, Manti-La Sal NF, USFS. CIMT (GB Team 2). Twenty-five miles southwest of Monticello, UT. Brush, closed timber litter and timber. Extreme fire behavior with wind-driven runs, running and flanking. Structures and communication infrastructure threatened. Area, road and trail closures in effect. Parsnip Peak, Ely District, BLM. Eighteen miles northwest of Pioche, NV. Timber and brush. Moderate fire behavior with creeping, single tree torching and smoldering. Kinky Creek, Bridger-Teton NF, USFS. Thirty-four miles northwest of Cora, WY. Timber. Minimal fire behavior with smoldering. Residences threatened. Area closures in effect. Cherry, West Desert District, BLM. Transfer of command from CIMT (GB Team 3) back to the local unit will occur tomorrow. Twenty-nine miles southwest of Santaquin, UT. Grass, brush and timber. Minimal fire behavior with creeping, isolated torching and smoldering. Residences threatened. Area and road closures in effect. Grapevine, Ely District, BLM. Ten miles southeast of Caliente, NV. Timber, brush and chaparral. Minimal fire behavior with creeping and smoldering. Area closures in effect. Snyder, Desert Rivers Fire and Aviation Management Unit, BLM. CIMT (RM Team 1). Thirteen miles west of Grand Junction, CO. Grass and brush. Minimal fire behavior with creeping and smoldering. Numerous residences threatened. Area, road and trail closures in effect. Reduction in acreage due to more accurate mapping. Dry Canyon, Ely District, BLM. Fourteen miles east of Pioche, NV. Timber and brush. Minimal fire behavior. Last report unless significant activity occurs."
     },
     {
       "gacc": "SWCC",
@@ -552,11 +552,11 @@
     }
   },
   "predictive_services_discussion": "A warming trend continues across the West with temperatures rising several degrees above normal. Breezy west winds 12-25 mph with gusts 25-40 mph amid relative humidity of 10-20% will develop through the Cascade gaps, across the Columbia Basin, and Okanogan Valley creating elevated to locally critical conditions. Winds will subside today in the Greater Four Corners, but very dry conditions will persist with minimum relative humidity of 3-12% and very poor overnight recovery below 30%. Isolated mixed wet and dry thunderstorms will develop along the Front Range in the afternoon, with several new ignitions possible along with strong outflow winds. Hot, record-setting temperatures will persist in the Mid-Atlantic and Southeast amid low relative humidity of 25-35%, with scattered showers and thunderstorms moving into the Mid-Atlantic overnight bringing some relief. Showers and thunderstorms will continue in the Midwest, with scattered thunderstorms also expected in Florida. Near normal temperatures are expected in Alaska today as scattered showers develop in south-central Alaska, while moderate trade winds persist in Hawai’i with a decrease in showers. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-07-04T13:46:19Z",
+  "generated_utc": "2026-07-04T15:11:25Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
-  "pdf_bytes": 231427,
+  "pdf_bytes": 231655,
   "fetch": {
-    "fetched_utc": "2026-07-04T13:46:17Z",
-    "duration_seconds": 0.39
+    "fetched_utc": "2026-07-04T15:11:23Z",
+    "duration_seconds": 0.34
   }
 }
