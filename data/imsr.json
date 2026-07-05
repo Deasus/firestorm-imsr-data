@@ -553,11 +553,11 @@
     }
   },
   "predictive_services_discussion": "Temperatures across the West will remain above normal, with minimum relative humidity 4-20%, lowest in the central and eastern Great Basin to the central Rockies west of the Divide. Isolated mixed wet and dry thunderstorms will develop over northeast California, southeast Oregon, and northwest Nevada, with a few ignitions likely. A few dry thunderstorms are possible overnight in the northern Great Basin. Isolated mixed wet and dry thunderstorms will also develop in the White Mountains of Arizona and Gila Mountains of New Mexico, with isolated wet thunderstorms southward to the Mexico border. Isolated mainly wet thunderstorms will develop along the Front Range into the central and southern High Plains. Hot temperatures will continue for one more day in the Carolinas, with isolated showers and thunderstorms developing in the afternoon. Scattered showers and thunderstorms will also develop from the northern Gulf Coast and Florida northward into the Lower Great Lakes then east into the Mid-Atlantic. Near normal temperatures are expected in Alaska with isolated thunderstorms across the Interior, while breezy trade winds are expected in Hawai’i with isolated windward showers. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-07-05T20:00:06Z",
+  "generated_utc": "2026-07-05T21:15:22Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 233706,
   "fetch": {
-    "fetched_utc": "2026-07-05T20:00:05Z",
-    "duration_seconds": 0.18
+    "fetched_utc": "2026-07-05T21:15:20Z",
+    "duration_seconds": 0.34
   }
 }
