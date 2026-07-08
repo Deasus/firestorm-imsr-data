@@ -77,7 +77,7 @@
       "new_fires": 18,
       "new_large_incidents": 1,
       "uncontained_large_fires": 1,
-      "narrative": "* 31 Pit, Lassen-Modoc Unit, Cal Fire. Four miles southeast of Little Valley, CA. Timber. Extreme fire behavior with short-range spotting. Numerous structures and railroad infrastructure threatened."
+      "narrative": "* 3-1 Pit, Lassen-Modoc Unit, Cal Fire. Four miles southeast of Little Valley, CA. Timber. Extreme fire behavior with short-range spotting. Numerous structures and railroad infrastructure threatened."
     },
     {
       "gacc": "OSCC",
@@ -571,11 +571,11 @@
     }
   },
   "predictive_services_discussion": "Isolated to mixed wet and dry thunderstorms will develop across northeast Nevada and northern Utah into the central Rockies. With minimum relative humidity falling to 10-25% across much of the Intermountain West, several new ignitions are possible. New and existing fires may also be fanned by outflow wind gusts up to 50 mph. In addition, breezy west to southwest winds 10-25 mph with gusts 25-45 mph will develop across much of the Inland Northwest and Great Basin creating elevated to locally critical conditions. Isolated mainly wet thunderstorms will develop near the Mexico border in the Southwest, with scattered wet thunderstorms from the central Plains into the Great Lakes. Isolated to scattered showers and thunderstorms will develop in much of the lower Mississippi Valley and Southeast. Above normal temperatures will continue in Alaska with scattered thunderstorms across the western Interior, with isolated thunderstorms for the eastern Interior and North Slope. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-07-08T14:27:38Z",
+  "generated_utc": "2026-07-08T16:15:25Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
-  "pdf_bytes": 240661,
+  "pdf_bytes": 240653,
   "fetch": {
-    "fetched_utc": "2026-07-08T14:27:36Z",
-    "duration_seconds": 0.21
+    "fetched_utc": "2026-07-08T16:15:24Z",
+    "duration_seconds": 0.23
   }
 }
