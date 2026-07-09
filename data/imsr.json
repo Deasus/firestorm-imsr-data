@@ -7,7 +7,7 @@
     "new_large_incidents": 8,
     "large_fires_contained": 5,
     "uncontained_large_fires": 38,
-    "cimts_committed": 12,
+    "cimts_committed": 11,
     "nimos_committed": 0
   },
   "resource_summary": [],
@@ -29,8 +29,8 @@
       "new_fires": 36,
       "new_large_incidents": 0,
       "uncontained_large_fires": 8,
-      "cimts_committed": 5,
-      "narrative": "Claremont, Ada County. CIMT (EA Team 1) mobilizing. One mile northeast of Boise, ID. Grass and brush. Active fire behavior with uphill runs, flanking and backing. Numerous structures and energy infrastructure threatened. Area, road and trail closures in effect. Cottonwood, Fishlake NF, USFS. CIMT (GB Team 4). Five miles east of Beaver, UT. Timber, brush and light slash. Moderate fire behavior with backing, creeping and single tree torching. Numerous residences and critical infrastructure threatened. Evacuations, area, road and trail closures in effect. Babylon, Manti-La Sal NF, USFS. CIMT (GB Team 2). Twenty-five miles southwest of Monticello, UT. Brush, closed timber litter and timber. Extreme fire behavior with crowning, short crown runs and wind-driven runs. Structures and communication infrastructure threatened. Area, road and trail closures in effect. Wild Goose, Fishlake NF, USFS. CIMT (GB Team 7). Twelve miles northeast of Fillmore, UT. Timber, brush and grass. Minimal fire behavior with creeping and smoldering. Structures and critical infrastructure threatened. Area, road and trail closures in effect. Parsnip Peak, Ely District, BLM. Eighteen miles northwest of Pioche, NV. Timber and brush. Minimal fire behavior with smoldering. Grapevine, Ely District, BLM. Ten miles southeast of Caliente, NV. Timber, brush and chaparral. Minimal fire behavior with smoldering. Kinky Creek, Bridger-Teton NF, USFS. Thirty-four miles northwest of Cora, WY. Timber. Minimal fire behavior with smoldering. Residences threatened. Area closures in effect. Last report unless significant activity occurs. Snyder, Desert Rivers Fire and Aviation Management Unit, BLM. CIMT (RM Team 1). Thirteen miles west of Grand Junction, CO. Grass and brush. No new information."
+      "cimts_committed": 4,
+      "narrative": "Claremont, Ada County. CIMT (EA Team 1) mobilizing. One mile northeast of Boise, ID. Grass and brush. Active fire behavior with uphill runs, flanking and backing. Numerous structures and energy infrastructure threatened. Area, road and trail closures in effect. Cottonwood, Fishlake NF, USFS. CIMT (GB Team 4). Five miles east of Beaver, UT. Timber, brush and light slash. Moderate fire behavior with backing, creeping and single tree torching. Numerous residences and critical infrastructure threatened. Evacuations, area, road and trail closures in effect. Babylon, Manti-La Sal NF, USFS. CIMT (GB Team 2). Twenty-five miles southwest of Monticello, UT. Brush, closed timber litter and timber. Extreme fire behavior with crowning, short crown runs and wind-driven runs. Structures and communication infrastructure threatened. Area, road and trail closures in effect. Wild Goose, Fishlake NF, USFS. CIMT (GB Team 7). Twelve miles northeast of Fillmore, UT. Timber, brush and grass. Minimal fire behavior with creeping and smoldering. Structures and critical infrastructure threatened. Area, road and trail closures in effect. Parsnip Peak, Ely District, BLM. Eighteen miles northwest of Pioche, NV. Timber and brush. Minimal fire behavior with smoldering. Grapevine, Ely District, BLM. Ten miles southeast of Caliente, NV. Timber, brush and chaparral. Minimal fire behavior with smoldering. Kinky Creek, Bridger-Teton NF, USFS. Thirty-four miles northwest of Cora, WY. Timber. Minimal fire behavior with smoldering. Residences threatened. Area closures in effect. Last report unless significant activity occurs. Snyder, Desert Rivers Fire and Aviation Management Unit, BLM. Thirteen miles west of Grand Junction, CO. Grass and brush. No new information."
     },
     {
       "gacc": "NWCC",
@@ -59,7 +59,7 @@
       "new_fires": 0,
       "new_large_incidents": 1,
       "uncontained_large_fires": 11,
-      "narrative": "* Tatlanika, Fairbanks Area, Alaska DOF. Twenty-five miles east of Clear, AK. Timber and grass. Moderate fire behavior. Big, Tanana Zone, BLM. Ten miles east of Ruby, AK. Timber, hardwood litter and grass. Minimal fire behavior. Precipitation occurred over the fire area yesterday. Pogo, Delta Area, Alaska DOF. Twenty-seven miles northeast of Delta Junction, AK. Timber. Minimal fire behavior. Shaw, Delta Area, Alaska DOF. Twenty-three miles northeast of Delta Junction, AK. Timber and grass. Minimal fire behavior. Hoholitna, Southwest Area, Alaska DOF. Thirty miles south of Lime Village, AK. Timber. Minimal fire behavior. Siruk, Tanana Zone, BLM. Twenty-four miles northwest of Allakaket, AK. Timber, grass and brush. Minimal fire behavior. Last report unless significant activity occurs. Ishtalitna, Tanana Zone, BLM. Forty-seven miles northwest of Rampart, AK. Grass and brush. No new information. Mustang, Tanana Zone, BLM. Nineteen miles southeast of Hughes, AK. Brush, grass and hardwood litter. No new information."
+      "narrative": "* Tatlanika, Fairbanks Area, Alaska DOF. Twenty-five miles east of Clear, AK. Timber and grass. Moderate fire behavior. Pogo, Delta Area, Alaska DOF. Twenty-seven miles northeast of Delta Junction, AK. Timber. Minimal fire behavior. Shaw, Delta Area, Alaska DOF. Twenty-three miles northeast of Delta Junction, AK. Timber and grass. Minimal fire behavior. Hoholitna, Southwest Area, Alaska DOF. Thirty miles south of Lime Village, AK. Timber. Minimal fire behavior. Big, Tanana Zone, BLM. Ten miles east of Ruby, AK. Timber, hardwood litter and grass. Minimal fire behavior. Precipitation occurred over the fire area yesterday. Siruk, Tanana Zone, BLM. Twenty-four miles northwest of Allakaket, AK. Timber, grass and brush. Minimal fire behavior. Last report unless significant activity occurs. Ishtalitna, Tanana Zone, BLM. Forty-seven miles northwest of Rampart, AK. Grass and brush. No new information. Mustang, Tanana Zone, BLM. Nineteen miles southeast of Hughes, AK. Brush, grass and hardwood litter. No new information."
     },
     {
       "gacc": "NRCC",
@@ -571,11 +571,11 @@
     }
   },
   "predictive_services_discussion": "Isolated to mixed wet and dry thunderstorms capable of new ignitions will develop in northeast Utah into the West Slope and western Wyoming. Isolated, mainly wet, thunderstorms will develop in southeast Arizona and southwest New Mexico. Breezy west winds 12-22 mph with gusts 25-35 mph amid relative humidity of 5-12% will develop in the southern Great Basin to northwest Arizona creating elevated to locally critical conditions. Locally elevated winds gusting near 30 mph will also develop through the Cascade gaps, Sierra Front, and through the Snake River Plain creating areas of elevated conditions. Isolated to scattered showers and thunderstorms will develop in the Lower to Mid-Mississippi Valley into the Lower Great Lakes, Mid-Atlantic, and Northeast, but drier conditions will begin to develop along the southeast Atlantic coast. Dry conditions will continue in northeast Minnesota with minimum relative humidity falling to near 30%. Above normal temperatures will continue in eastern Interior Alaska with isolated thunderstorms, while cooler conditions move into the western half of the state. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-07-09T16:16:53Z",
+  "generated_utc": "2026-07-09T18:18:02Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
-  "pdf_bytes": 241493,
+  "pdf_bytes": 241395,
   "fetch": {
-    "fetched_utc": "2026-07-09T16:16:51Z",
-    "duration_seconds": 0.18
+    "fetched_utc": "2026-07-09T18:18:01Z",
+    "duration_seconds": 0.36
   }
 }
