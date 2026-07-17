@@ -40,7 +40,7 @@
       "new_large_incidents": 2,
       "uncontained_large_fires": 6,
       "cimts_committed": 1,
-      "narrative": "NIMOs Committed: 1 Thumb, Superior NF, USFS. NIMO Team 3. NIMO is also managing the Camp and Sioux incidents. Five miles south of Lac la Croix, MN. Timber. Active fire behavior with torching and short-range spotting. Area and trail closures in effect. Camp, Superior NF, USFS. Five miles north of Winton, MN. Timber. Active fire behavior with torching and short-range spotting. Numerous structures and energy infrastructure threatened. Area, road and trail closures in effect. Sioux, Superior NF, USFS. Twenty miles northwest of Ely, MN. Timber. Active fire behavior with torching and short-range spotting. Residences threatened. Area and trail closures in effect. Bear Trap, Superior NF, USFS. CIMT (SA Team 1). Twenty miles north of Ely, MN. Timber. Active fire behavior with torching and short-range spotting. Area and trail closures in effect. * Little Knife, Superior NF, USFS. Forty-five miles northeast of Grand Marais, MN. Timber and closed timber litter. Extreme fire behavior with crowning, short-range spotting and running. Numerous structures threatened. Evacuations in effect. Chub, Tower Forestry Area, Minnesota DNR. Fourteen miles north of Orr, MN. Timber, dormant brush and grass. Active fire behavior with single tree torching, creeping and smoldering. Numerous structures and communication infrastructure threatened. Area and trail closures in effect."
+      "narrative": "NIMOs Committed: 1 Thumb, Superior NF, USFS. NIMO Team 3. NIMO is also managing the Camp and Sioux incidents. Five miles south of Lac la Croix, MN. Timber. Active fire behavior with torching and short-range spotting. Area and trail closures in effect. Camp, Superior NF, USFS. Five miles north of Winton, MN. Timber. Active fire behavior with torching and short-range spotting. Numerous structures and energy infrastructure threatened. Area, road and trail closures in effect. Sioux, Superior NF, USFS. Includes the previously reported Wolfpack incident. Twenty miles northwest of Ely, MN. Timber. Active fire behavior with torching and short-range spotting. Residences threatened. Area and trail closures in effect. Bear Trap, Superior NF, USFS. Includes the previously reported Dark incident. CIMT (SA Team 1). Twenty miles north of Ely, MN. Timber. Active fire behavior with torching and short-range spotting. Area and trail closures in effect. * Little Knife, Superior NF, USFS. Forty-five miles northeast of Grand Marais, MN. Timber and closed timber litter. Extreme fire behavior with crowning, short-range spotting and running. Numerous structures threatened. Evacuations in effect. Chub, Tower Forestry Area, Minnesota DNR. Fourteen miles north of Orr, MN. Timber, dormant brush and grass. Active fire behavior with single tree torching, creeping and smoldering. Numerous structures and communication infrastructure threatened. Area and trail closures in effect."
     },
     {
       "gacc": "GBCC",
@@ -581,11 +581,11 @@
     }
   },
   "predictive_services_discussion": "Dry conditions will return to the West Coast on Friday as high pressure shifts east, confining monsoonal moisture to the eastern Great Basin, Southwest, and Colorado. Those areas will see scattered afternoon showers and a mix of wet and dry thunderstorms with gusty outflow winds. California and much of the Pacific Northwest will remain hot and dry, while a dry air mass and gusty westerly winds (25–35 mph) spread across the Pacific Northwest and northern California behind an upper-level trough. East of the ridge, scattered showers and thunderstorms are expected across the Upper Mississippi Valley and Upper Great Lakes, with localized heavy rainfall possible along a cold front. Gusty northwesterly winds will develop behind the front. Wildfire smoke from Minnesota and Canada will continue affecting the Great Lakes and Northeast, reducing temperatures and air quality. Showers are also expected across the Mid-Atlantic and parts of Florida, while Texas begins to dry out except for hot, dry conditions across Deep South Texas. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-07-17T14:17:20Z",
+  "generated_utc": "2026-07-17T15:57:22Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
-  "pdf_bytes": 291088,
+  "pdf_bytes": 292183,
   "fetch": {
-    "fetched_utc": "2026-07-17T14:17:19Z",
-    "duration_seconds": 0.1
+    "fetched_utc": "2026-07-17T15:57:20Z",
+    "duration_seconds": 0.27
   }
 }
