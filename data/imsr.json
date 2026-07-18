@@ -581,11 +581,11 @@
     }
   },
   "predictive_services_discussion": "Dry conditions will return to the West Coast on Friday as high pressure shifts east, confining monsoonal moisture to the eastern Great Basin, Southwest, and Colorado. Those areas will see scattered afternoon showers and a mix of wet and dry thunderstorms with gusty outflow winds. California and much of the Pacific Northwest will remain hot and dry, while a dry air mass and gusty westerly winds (25–35 mph) spread across the Pacific Northwest and northern California behind an upper-level trough. East of the ridge, scattered showers and thunderstorms are expected across the Upper Mississippi Valley and Upper Great Lakes, with localized heavy rainfall possible along a cold front. Gusty northwesterly winds will develop behind the front. Wildfire smoke from Minnesota and Canada will continue affecting the Great Lakes and Northeast, reducing temperatures and air quality. Showers are also expected across the Mid-Atlantic and parts of Florida, while Texas begins to dry out except for hot, dry conditions across Deep South Texas. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-07-18T08:00:47Z",
+  "generated_utc": "2026-07-18T09:46:02Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 292183,
   "fetch": {
-    "fetched_utc": "2026-07-18T08:00:45Z",
-    "duration_seconds": 0.2
+    "fetched_utc": "2026-07-18T09:46:00Z",
+    "duration_seconds": 0.39
   }
 }
