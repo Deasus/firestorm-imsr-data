@@ -7,7 +7,7 @@
     "new_large_incidents": 17,
     "large_fires_contained": 2,
     "uncontained_large_fires": 73,
-    "cimts_committed": 23,
+    "cimts_committed": 22,
     "nimos_committed": 1
   },
   "resource_summary": [],
@@ -59,8 +59,8 @@
       "new_fires": 29,
       "new_large_incidents": 1,
       "uncontained_large_fires": 2,
-      "cimts_committed": 2,
-      "narrative": "Upper Smith, Idaho Panhandle NF, USFS. CIMT (NR Team 1). CIMT is also managing the Turner incident. Six miles west of Porthill, ID. Timber, medium slash and brush. Moderate fire behavior with flanking, backing and smoldering. Structures and energy infrastructure threatened. Evacuations, road and trail closures in effect. * Turner, Northern Idaho Agency, BIA. CIMT. Nine miles north of Bonners Ferry, ID. Grass, closed timber litter and timber. Moderate fire behavior with flanking, backing and smoldering. Numerous residences threatened. Evacuations, area and road closures in effect. Precipitation occurred over the fire area yesterday."
+      "cimts_committed": 1,
+      "narrative": "Upper Smith, Idaho Panhandle NF, USFS. CIMT (NR Team 1). CIMT is also managing the Turner incident. Six miles west of Porthill, ID. Timber, medium slash and brush. Moderate fire behavior with flanking, backing and smoldering. Structures and energy infrastructure threatened. Evacuations, road and trail closures in effect. * Turner, Northern Idaho Agency, BIA. Nine miles north of Bonners Ferry, ID. Grass, closed timber litter and timber. Moderate fire behavior with flanking, backing and smoldering. Numerous residences threatened. Evacuations, area and road closures in effect. Precipitation occurred over the fire area yesterday."
     },
     {
       "gacc": "SACC",
@@ -572,11 +572,11 @@
     }
   },
   "predictive_services_discussion": "Hot, dry, and breezy conditions are expected across the Inland Northwest into northern California and the western Great Basin today, with downslope winds developing east of the Cascades and Sierra Nevada. Strong winds will extend into the Idaho Panhandle and northwest Montana. Hot, dry weather will also persist across much of California, the Great Plains, and the Mississippi Valley as a broad ridge of high pressure strengthens over the Rockies. Monsoonal moisture circulating beneath the ridge will support scattered to widespread wet and dry thunderstorms across the eastern Great Basin into western Colorado, Wyoming, and Montana. Meanwhile, a cold front will move slowly across the lower Great Lakes into the Northeast, triggering thunderstorms in the Ohio Valley and potentially severe storms into the Mid-Atlantic. Scattered showers and thunderstorms are also expected across portions of the Southeast, including the Florida Panhandle. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-07-18T16:04:53Z",
+  "generated_utc": "2026-07-18T17:15:52Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
-  "pdf_bytes": 297333,
+  "pdf_bytes": 297316,
   "fetch": {
-    "fetched_utc": "2026-07-18T16:04:51Z",
-    "duration_seconds": 0.14
+    "fetched_utc": "2026-07-18T17:15:50Z",
+    "duration_seconds": 0.16
   }
 }
