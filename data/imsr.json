@@ -573,11 +573,11 @@
     }
   },
   "predictive_services_discussion": "Scattered showers and a mix of wet and dry thunderstorms will spread across the Southwest and Great Basin, extending north into the central Idaho Mountains. Heavy rainfall and flash flooding are possible across much of Arizona, western New Mexico, Utah, and eastern Nevada. Farther west, isolated thunderstorms, some capable of producing little rainfall, are possible across the southern Cascades, while hot, dry conditions persist from the northern Cascades through the Northern Rockies and Great Plains. A cold front moving across the Northeast will support widespread thunderstorms and localized flash flooding from the Upper Midwest to the Mid-Atlantic. Behind the front, strong northerly winds will develop across Minnesota and the Upper Great Lakes. Meanwhile, a tropical depression over the Gulf of America will continue to supply deep moisture and energy for heavy rainfall along the eastern Gulf Coast and southern Atlantic states. Strong winds are also expected across South Florida and the Carolina coast, where limited rainfall may contribute to elevated fire potential. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-07-21T19:52:34Z",
+  "generated_utc": "2026-07-21T21:15:59Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 287893,
   "fetch": {
-    "fetched_utc": "2026-07-21T19:52:32Z",
-    "duration_seconds": 0.17
+    "fetched_utc": "2026-07-21T21:15:57Z",
+    "duration_seconds": 0.25
   }
 }
