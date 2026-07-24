@@ -564,11 +564,11 @@
     }
   },
   "predictive_services_discussion": "Elevated to locally critical fire weather conditions are expected near and east of the Cascades and northern Sierra, where gusty west to southwest winds, low relative humidity, and recent lightning activity will support new fire starts and large fire growth. Gusty west winds will also develop across the central Idaho Mountains and much of the Northern Rockies as showers and thunderstorms continue across the Southwest, Great Basin, and into the Northern Rockies, bringing thunderstorm activity to many areas that have recently experienced hot and dry conditions. Farther east, breezy conditions and low relative humidity and hot temperatures will support elevated fire weather conditions across the southern High Plains, where isolated mixed wet and dry thunderstorms may lead to new fire starts. In Minnesota, a weak cold front will bring locally breezy conditions followed by isolated to scattered thunderstorms tonight. Heavy rain and possible flash flooding are also expected across portions of the southern Atlantic Coastal States and Middle Mississippi Valley. Farther south, isolated thunderstorms may reach southern Florida, where dry fuels remain receptive to new ignitions. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-07-24T13:55:45Z",
+  "generated_utc": "2026-07-24T15:34:51Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 302586,
   "fetch": {
-    "fetched_utc": "2026-07-24T13:55:42Z",
-    "duration_seconds": 0.43
+    "fetched_utc": "2026-07-24T15:34:49Z",
+    "duration_seconds": 0.26
   }
 }
