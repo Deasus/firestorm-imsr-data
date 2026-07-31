@@ -581,11 +581,11 @@
     }
   },
   "predictive_services_discussion": "The highest confidence for isolated dry thunderstorms today covers north central and eastern Idaho, extending into southern Montana and western Wyoming. These storms will become wetter as they move eastward. A lower probability, but potentially high-impact, area for isolated dry thunderstorms extends from eastern Washington to northwest Montana. A break in the monsoon begins today as drier air moves into central and western Arizona, shifting the thunderstorm focus into New Mexico. Even drier conditions will expand across the Southwest by tomorrow. Meanwhile, isolated to scattered mixed wet/dry thunderstorms will continue for Colorado and the Front Range. Very low RH of 3-15% is expanding across the Mojave Desert and much of the Great Basin, with poor overnight recovery of 10-30% in many locations. Unseasonably low RH of 8-20% will also develop in the Southwest, West Slope, Inland Northwest, and northern Rockies. Temperatures will be 5-15°F above normal across many of these areas, particularly the Southwest, though outside of thunderstorm activity winds will remain relatively light except for the Cascade gaps. Widespread heavy thunderstorm rains are possible across parts of the Dakotas and the Missouri River Valley, spreading eastward tonight. Lingering showers and a few thunderstorms will continue across New England, while locally heavy rainfall focuses along and south of a stationary frontal boundary from central Florida to the Lower Mississippi Valley. South Florida is expected to remain hot and dry with a high risk for significant fire potential. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-07-31T01:06:44Z",
+  "generated_utc": "2026-07-31T04:43:25Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 329718,
   "fetch": {
-    "fetched_utc": "2026-07-31T01:06:41Z",
-    "duration_seconds": 0.21
+    "fetched_utc": "2026-07-31T04:43:23Z",
+    "duration_seconds": 0.44
   }
 }
