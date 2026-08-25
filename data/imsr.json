@@ -584,11 +584,11 @@
     }
   },
   "predictive_services_discussion": "A cold front will move through the northern Plains, with cooler temperatures expected today across much of Montana. However, the cooler temperatures observed in the Northwest yesterday will warm back above normal today with highs 80-95°F and minimum relative humidity will fall to 8-20%. Above normal temperatures will continue across the rest of the West, with isolated mixed wet and dry thunderstorms expected to develop across far northeast California and southeast Oregon into the northern Great Basin. Meanwhile, isolated to scattered monsoon thunderstorms will continue in Arizona, Utah, Colorado, and northwest New Mexico, although rainfall footprints will remain small due to the hot temperatures. Very hot temperatures of 100-110°F will continue across southern Oklahoma and much of north Texas amid relative humidity of 10-20%, and locally breezy winds will create elevated conditions. Isolated thunderstorms will develop across portions of the Lower Mississippi Valley amid above normal temperatures as well as the Florida Peninsula. In the Southeast, dry northwesterly winds around 10 mph will result in lower-than-average relative humidity of 25-35%. Rain and winds will ease in Hawai’i as Tropical Storm Moke moves westward away from the islands. Alaska will remain cool and damp except for the southeast Interior which will be warmer and drier today. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-08-25T04:01:00Z",
+  "generated_utc": "2026-08-25T04:55:08Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 401377,
   "fetch": {
-    "fetched_utc": "2026-08-25T04:00:57Z",
-    "duration_seconds": 0.44
+    "fetched_utc": "2026-08-25T04:55:05Z",
+    "duration_seconds": 0.38
   }
 }
