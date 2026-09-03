@@ -10,7 +10,129 @@
     "cimts_committed": 17,
     "nimos_committed": 1
   },
-  "resource_summary": [],
+  "resource_summary": [
+    {
+      "gacc": "AICC",
+      "pl": 1,
+      "incidents": 1,
+      "cumulative_acres": 7335,
+      "crews": 1,
+      "engines": 5,
+      "helicopters": 1,
+      "total_personnel": 97,
+      "change_in_personnel": -13
+    },
+    {
+      "gacc": "NWCC",
+      "pl": 4,
+      "incidents": 42,
+      "cumulative_acres": 2605878,
+      "crews": 176,
+      "engines": 460,
+      "helicopters": 40,
+      "total_personnel": 9385,
+      "change_in_personnel": -706
+    },
+    {
+      "gacc": "ONCC",
+      "pl": 3,
+      "incidents": 4,
+      "cumulative_acres": 17606,
+      "crews": 8,
+      "engines": 20,
+      "helicopters": 4,
+      "total_personnel": 732,
+      "change_in_personnel": -66
+    },
+    {
+      "gacc": "OSCC",
+      "pl": 3,
+      "incidents": 2,
+      "cumulative_acres": 54349,
+      "crews": 69,
+      "engines": 169,
+      "helicopters": 19,
+      "total_personnel": 2978,
+      "change_in_personnel": 249
+    },
+    {
+      "gacc": "NRCC",
+      "pl": 3,
+      "incidents": 24,
+      "cumulative_acres": 105118,
+      "crews": 41,
+      "engines": 63,
+      "helicopters": 15,
+      "total_personnel": 1929,
+      "change_in_personnel": -166
+    },
+    {
+      "gacc": "GBCC",
+      "pl": 4,
+      "incidents": 19,
+      "cumulative_acres": 642526,
+      "crews": 34,
+      "engines": 85,
+      "helicopters": 18,
+      "total_personnel": 1730,
+      "change_in_personnel": -212
+    },
+    {
+      "gacc": "SWCC",
+      "pl": 2,
+      "incidents": 7,
+      "cumulative_acres": 19377,
+      "crews": 19,
+      "engines": 30,
+      "helicopters": 6,
+      "total_personnel": 839,
+      "change_in_personnel": -62
+    },
+    {
+      "gacc": "RMCC",
+      "pl": 2,
+      "incidents": 6,
+      "cumulative_acres": 157392,
+      "crews": 0,
+      "engines": 12,
+      "helicopters": 1,
+      "total_personnel": 201,
+      "change_in_personnel": -46
+    },
+    {
+      "gacc": "EACC",
+      "pl": 1,
+      "incidents": 2,
+      "cumulative_acres": 60634,
+      "crews": 2,
+      "engines": 8,
+      "helicopters": 1,
+      "total_personnel": 237,
+      "change_in_personnel": 7
+    },
+    {
+      "gacc": "SACC",
+      "pl": 3,
+      "incidents": 35,
+      "cumulative_acres": 114171,
+      "crews": 6,
+      "engines": 191,
+      "helicopters": 3,
+      "total_personnel": 974,
+      "change_in_personnel": -128
+    },
+    {
+      "gacc": "Total",
+      "pl": null,
+      "incidents": 142,
+      "cumulative_acres": 3784386,
+      "crews": 356,
+      "engines": 1043,
+      "helicopters": 108,
+      "total_personnel": 19102,
+      "change_in_personnel": -1143
+    }
+  ],
   "gacc_sections": [
     {
       "gacc": "GBCC",
@@ -573,11 +695,12 @@
     }
   },
   "predictive_services_discussion": "Hot temperatures continue across the Southern Plains and Mississippi Valley again today with highs reaching 100°F. Locally breezy winds pick up over Oklahoma and Kansas, although RH’s will be up a bit, reaching 35- 45%. Remnants of Edouard will produce another day of heavy rains across eastern Texas, while southern Texas will be dry and breezy. Overall large fire potential continues to decrease over the Pacific Northwest, Northern California and western Idaho as showers with cooler temperatures spread across the area. Dry and breezy conditions are expected over much of the Great Basin up into Wyoming and eastern Montana. Showers and thunderstorms continue across southeast Arizona and begin to spread into western New Mexico. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
-  "generated_utc": "2026-09-03T15:13:00Z",
+  "parse_warnings": [],
+  "generated_utc": "2026-09-03T17:34:37Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 388154,
   "fetch": {
-    "fetched_utc": "2026-09-03T15:12:57Z",
-    "duration_seconds": 0.4
+    "fetched_utc": "2026-09-03T17:34:34Z",
+    "duration_seconds": 0.73
   }
 }

@@ -57,8 +57,24 @@ JSON_PATH = DATA_DIR / "imsr.json"
 HEALTH_PATH = DATA_DIR / "health.json"
 
 GACC_ROW_RE = re.compile(
-    # AICC|NWCC|ONCC|OSCC|NRCC|GBCC|SWCC|RMCC|EACC|SACC + 7 numeric columns
+    # GACC code, then an OPTIONAL per-GACC Preparedness Level column, then the
+    # 7 numeric columns (incidents, acres, crews, engines, helicopters,
+    # personnel, change-in-personnel).
+    #
+    # The PL column is optional on purpose. NICC ADDED it to the page-1 table
+    # sometime between 2026-06-15 and 2026-07-01 (national PL went 2 -> 4 in
+    # that window). The original 7-column regex then matched nothing, and
+    # because there was no row-count guard the pipeline reported healthy while
+    # `resource_summary` sat empty for ~2 months. Keeping the group optional
+    # means both the pre-July (7-col) and current (8-col) layouts parse, so a
+    # future NICC format flip in either direction degrades instead of zeroing.
+    # Regex backtracking resolves the ambiguity: exactly 7 trailing numeric
+    # columns are required, so a 7-number row skips the optional group and an
+    # 8-number row binds it.
+    #
+    # The Total row carries "---" in the PL column rather than a digit.
     r"^(AICC|NWCC|ONCC|OSCC|NRCC|GBCC|SWCC|RMCC|EACC|SACC|Total)\s+"
+    r"(?:(\d|---)\s+)?"
     r"([\d,]+)\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)\s+(-?[\d,]+)\s*$"
 )
 
@@ -131,23 +147,33 @@ def _to_int(s: str) -> int:
 
 
 def parse_resource_summary(p1_text: str) -> list:
-    """Page 1 GACC table — Active Incident Resource Summary."""
+    """Page 1 GACC table — Active Incident Resource Summary.
+
+    `pl` is the per-GACC Preparedness Level (1-5), or None when the column is
+    absent (pre-July-2026 layout) or not applicable (the Total row, which
+    prints "---"). This is the label the GACC-level PL index trains on — see
+    ~/Projects/firestorm-research/PREPAREDNESS_LEVEL_2026-08-27.md.
+
+    NOTE: the Total row IS included in this list (it always has been, despite
+    an earlier comment claiming otherwise). Consumers filter by `gacc`, so
+    leaving it in place keeps the shape consumers already expect.
+    """
     out = []
     for line in p1_text.splitlines():
         m = GACC_ROW_RE.match(line.strip())
         if not m:
             continue
-        gacc = m.group(1)
-        # Skip the Total row in the per-GACC list; surface it separately.
+        pl_raw = m.group(2)
         out.append({
-            "gacc": gacc,
-            "incidents": _to_int(m.group(2)),
-            "cumulative_acres": _to_int(m.group(3)),
-            "crews": _to_int(m.group(4)),
-            "engines": _to_int(m.group(5)),
-            "helicopters": _to_int(m.group(6)),
-            "total_personnel": _to_int(m.group(7)),
-            "change_in_personnel": _to_int(m.group(8)),
+            "gacc": m.group(1),
+            "pl": int(pl_raw) if pl_raw and pl_raw.isdigit() else None,
+            "incidents": _to_int(m.group(3)),
+            "cumulative_acres": _to_int(m.group(4)),
+            "crews": _to_int(m.group(5)),
+            "engines": _to_int(m.group(6)),
+            "helicopters": _to_int(m.group(7)),
+            "total_personnel": _to_int(m.group(8)),
+            "change_in_personnel": _to_int(m.group(9)),
         })
     return out
 
@@ -459,7 +485,26 @@ def main() -> int:
         print("PARSE WARN: empty summary — header parser missed", file=sys.stderr)
         update_health(success=False, notes="empty summary block")
         return 1
+    # Row-count guards. The failure mode that actually bit us was NOT an
+    # exception or a dead URL — it was a structurally-valid PDF whose page-1
+    # table silently stopped matching after NICC added a column. The pipeline
+    # reported healthy with resource_summary == [] for ~2 months. Never again:
+    # write the payload anyway (the other sections stay useful) but record a
+    # FAILURE so data/health.json degrades and `firestorm-health` catches it.
+    warnings = []
+    if not parsed.get("resource_summary"):
+        warnings.append("resource_summary EMPTY — page-1 GACC table matched no rows (NICC layout change?)")
+    if not parsed.get("gacc_sections"):
+        warnings.append("gacc_sections EMPTY — page 2-4 narrative parser matched no sections")
+    parsed["parse_warnings"] = warnings
+
     write_outputs(parsed, raw, fetch_meta)
+
+    if warnings:
+        print("PARSE WARN: " + " | ".join(warnings), file=sys.stderr)
+        update_health(success=False, notes="; ".join(warnings))
+        return 1
+
     update_health(success=True, notes=f"parsed pl={parsed['summary'].get('national_preparedness_level')} large_fires={parsed['summary'].get('uncontained_large_fires')}")
     print(f"OK: PL={parsed['summary'].get('national_preparedness_level')} "
           f"uncontained_large={parsed['summary'].get('uncontained_large_fires')} "
