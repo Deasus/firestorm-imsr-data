@@ -696,11 +696,11 @@
   },
   "predictive_services_discussion": "Hot temperatures continue across the Southern Plains and Mississippi Valley again today with highs reaching 100°F. Locally breezy winds pick up over Oklahoma and Kansas, although RH’s will be up a bit, reaching 35- 45%. Remnants of Edouard will produce another day of heavy rains across eastern Texas, while southern Texas will be dry and breezy. Overall large fire potential continues to decrease over the Pacific Northwest, Northern California and western Idaho as showers with cooler temperatures spread across the area. Dry and breezy conditions are expected over much of the Great Basin up into Wyoming and eastern Montana. Showers and thunderstorms continue across southeast Arizona and begin to spread into western New Mexico. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-04T01:16:47Z",
+  "generated_utc": "2026-09-04T06:24:34Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 388154,
   "fetch": {
-    "fetched_utc": "2026-09-04T01:16:44Z",
-    "duration_seconds": 0.25
+    "fetched_utc": "2026-09-04T06:24:31Z",
+    "duration_seconds": 0.23
   }
 }
