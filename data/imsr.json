@@ -697,11 +697,11 @@
   },
   "predictive_services_discussion": "Moderate conditions continue across parts of Wyoming and eastern Montana due to continuing hot, dry, and breezy conditions, with temperatures reaching 90-100°F, RH lowering to 10-20%, and winds gusts of 20-35. Dry and breezy winds continue over parts of the Great Basin maintaining moderate conditions there. Moderate conditions also continue across the Southern Plains and Mississippi Valley again today with highs reaching 100°F and locally breezy winds, extending over Oklahoma and Kansas amid RH of 25-30%. Across the Pacific Northwest, western Northern Rockies, and Northern California, large fire potential continues to decrease as showers with cooler temperatures spread across the area. Showers and thunderstorms continue across the Southwest, extending into the central Rockies and the central Plains. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-05T15:56:55Z",
+  "generated_utc": "2026-09-05T18:07:50Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 374514,
   "fetch": {
-    "fetched_utc": "2026-09-05T15:56:52Z",
-    "duration_seconds": 0.48
+    "fetched_utc": "2026-09-05T18:07:47Z",
+    "duration_seconds": 0.38
   }
 }
