@@ -697,11 +697,11 @@
   },
   "predictive_services_discussion": "Moderate to high-risk significant fire potential is forecast across the southern Plains and Southern Mississippi Valley today with highs reaching 100°F and locally breezy winds, extending over Oklahoma and Kansas amid RH of 25-30%. Moderate conditions continue across parts of Wyoming, eastern Montana, and northeast Colorado, due to continuing hot, dry, and breezy conditions, with temperatures reaching 90-100°F, RH lowering to 10-20%, and winds gusts of 20-35. Dry and breezy winds continue over parts of the Great Basin with low-risk conditions there. Across the remainder of the west, little to no risk of significant fire potential continues due to cooler conditions and recent rainfall across the northwest. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-06T17:43:57Z",
+  "generated_utc": "2026-09-06T19:36:15Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 373612,
   "fetch": {
-    "fetched_utc": "2026-09-06T17:43:54Z",
-    "duration_seconds": 0.32
+    "fetched_utc": "2026-09-06T19:36:13Z",
+    "duration_seconds": 0.2
   }
 }
