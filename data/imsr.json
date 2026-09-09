@@ -686,11 +686,11 @@
   },
   "predictive_services_discussion": "Hot temperatures will continue across the southern Plains today with highs near 100°F, but relative humidity will be higher and generally above 20% along with lighter south winds of 5-15 mph. Dry and breezy west winds will continue across Wyoming today, while breezy west winds also occur in portions of central Montana. Lighter winds are expected elsewhere in the West, but temperatures will begin to warm, with temperatures mostly above normal along the West Coast and much of the Greater Four Corners. Scattered showers and thunderstorms will continue in along the Gulf Coast and across much of Florida, with scattered showers and thunderstorms developing in much of New Mexico, as well, then northeastward ahead of a cold front through the central Plains into the Great Lakes. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-09T19:30:12Z",
+  "generated_utc": "2026-09-09T21:55:38Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 348899,
   "fetch": {
-    "fetched_utc": "2026-09-09T19:30:10Z",
-    "duration_seconds": 0.35
+    "fetched_utc": "2026-09-09T21:55:36Z",
+    "duration_seconds": 0.34
   }
 }
