@@ -685,11 +685,11 @@
   },
   "predictive_services_discussion": "Dry and breezy west winds will continue across Wyoming and spread into southeast Montana today as winds gust to 45 mph amid minimum relative humidity of 7-20% creating elevated to locally critical conditions. Breezy winds are also expected for the Inland Northwest into the northern Great Basin, but relative humidity is expected to be higher and mostly above 15% if not 20%. Stronger winds may develop in north-central Montana, but relative humidity will be elevated with scattered showers in the evening to mitigate. Hot temperatures will continue in California today along with low relative humidity of 10-20% but winds will be light. A cold front will slowly move southward into the Texas Panhandle and much of Oklahoma today, with scattered showers and thunderstorms bringing areas of relief, but new ignitions are possible, as well. Scattered showers and thunderstorms will also develop from the Mid-Mississippi Valley to the Mid-Atlantic, while drier conditions are expected in the Great Lakes and Northeast. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-10T17:14:46Z",
+  "generated_utc": "2026-09-10T19:49:19Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 338083,
   "fetch": {
-    "fetched_utc": "2026-09-10T17:14:44Z",
-    "duration_seconds": 0.32
+    "fetched_utc": "2026-09-10T19:49:18Z",
+    "duration_seconds": 0.46
   }
 }
