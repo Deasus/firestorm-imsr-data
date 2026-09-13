@@ -685,11 +685,11 @@
   },
   "predictive_services_discussion": "Dry and breezy southwesterly winds will bring moderate significant fire potential for much of northern California, the northern and central Great Basin, the central Rockies, and the northern High Plains, with sustained winds of 15-35 mph and gusts of 30-50 mph amid minimum of RH 7-20%. Across the Sacramento Valley, Sierra Front, and western Nevada, locally stronger wind gusts of 50-60mph will bring high-risk conditions. Much of Texas and eastern New Mexico will also have moderate significant fire potential as hot and dry conditions continue and breezy winds develop, with wind speeds of 15-20 mph amid temperatures near 100 °F and minimum RH to 15- 25%. Mixed wet/dry thunderstorms are possible across the southern Plains as well as the Four Corners area. Elsewhere, the significant fire potential is little to low, with below usual temperatures about the west coast as well as the northern Rockies and northern Plains. Scattered showers are expected across the Pacific Northwest, with showers and thunderstorms also expected across the central Plains, Mid-Mississippi, Southeast, Northeast, and Mid-Atlantic. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-12T22:58:37Z",
+  "generated_utc": "2026-09-13T00:51:31Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 270495,
   "fetch": {
-    "fetched_utc": "2026-09-12T22:58:35Z",
-    "duration_seconds": 0.44
+    "fetched_utc": "2026-09-13T00:51:29Z",
+    "duration_seconds": 0.25
   }
 }
