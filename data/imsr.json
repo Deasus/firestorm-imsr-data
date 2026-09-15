@@ -684,11 +684,11 @@
   },
   "predictive_services_discussion": "Hot temperatures will continue across the southern Plains today with highs near 100°F, with locally breezy southerly winds 12-20 mph and higher gusts amid minimum relative humidity of 20-30%. Scattered showers and thunderstorms will develop in the Southwest and along a cold front from southern Colorado east northeastward into the Great Lakes. Behind the front, winds are expected to be mostly lighter than previous days across the Great Basin and Wyoming, but minimum relative humidity will remain low and 8-20%. Low relative humidity and light winds are also expected across much of California, as well. An upper-level low will drop into Washington tonight with isolated light showers, and temperatures will remain below normal in the Northwest into the northern Rockies. Isolated showers and thunderstorms will continue across Florida as well as the Lower Mississippi Valley and southeast Texas. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-15T15:12:14Z",
+  "generated_utc": "2026-09-15T19:03:14Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 332256,
   "fetch": {
-    "fetched_utc": "2026-09-15T15:12:12Z",
-    "duration_seconds": 0.41
+    "fetched_utc": "2026-09-15T19:03:12Z",
+    "duration_seconds": 0.5
   }
 }
