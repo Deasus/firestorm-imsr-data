@@ -683,11 +683,11 @@
   },
   "predictive_services_discussion": "Hot temperatures with highs near 100°F continue across the southern Plains today with widespread 90s stretching from west Texas northeast through the Ohio Valley. Relative humidity across the Lower Mississippi Valley, Oklahoma, and central Texas will also be 15-25% this afternoon with south winds gusting to 25 mph across central Texas and Oklahoma. Minimum relative humidity will drop to near 10% across central Nevada and the Mojave Desert and winds will be breezy with gusts 30 to 35 mph during the afternoon hours. Widespread showers and thunderstorms will develop with flash flooding concerns for the Southwest and the Four Corners again today. Isolated to scattered thunderstorms will develop across southwest Oregon and far north California today, as well as across eastern Oregon and central Idaho. The Gulf Coast and Florida will remain mostly dry today. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-17T15:02:31Z",
+  "generated_utc": "2026-09-17T19:03:46Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 277638,
   "fetch": {
-    "fetched_utc": "2026-09-17T15:02:28Z",
-    "duration_seconds": 0.31
+    "fetched_utc": "2026-09-17T19:03:44Z",
+    "duration_seconds": 0.37
   }
 }
