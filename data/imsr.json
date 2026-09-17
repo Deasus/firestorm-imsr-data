@@ -684,11 +684,11 @@
   },
   "predictive_services_discussion": "Hot temperatures will continue across the southern Plains today with highs near 100°F, with locally breezy southerly winds 12-20 mph and higher gusts amid minimum relative humidity of 15-25%, focused over central Texas. Hot temperatures will also spread northeastward into the Mid-Mississippi and Lower Ohio Valleys. Widespread showers and thunderstorms will develop in the Southwest and Four Corners today, with scattered showers and thunderstorms in Utah to western Colorado. Scattered showers and isolated thunderstorms will develop with an upper-level low in northern California into southern Oregon and central Idaho, as well, while south winds 15-20 mph amid relative humidity of 10-15% develop across Nevada creating areas of elevated conditions. Scattered showers and thunderstorms will also develop along a weak front from the central Plains to the Lower Great Lakes. Isolated showers and thunderstorms will continue across Florida as well as the northern Gulf Coast. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-17T05:11:05Z",
+  "generated_utc": "2026-09-17T10:02:09Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 279373,
   "fetch": {
-    "fetched_utc": "2026-09-17T05:11:03Z",
-    "duration_seconds": 0.26
+    "fetched_utc": "2026-09-17T10:02:07Z",
+    "duration_seconds": 0.24
   }
 }
