@@ -683,11 +683,11 @@
   },
   "predictive_services_discussion": "Hot temperatures with highs near 100°F continue across the southern Plains and Mid-Mississippi Valley today, and widespread above normal temperatures will spread east into the southern Appalachians. Minimum relative humidity is expected to be 20-35% from the southern Plains to the Lower Mississippi Valley, with breezy south winds of 15-20 mph in the southern Plains creating areas of elevated conditions. Relative humidity will remain low in the Mojave Desert to southern Nevada today, but winds will be lighter than the past two days and generally near or less than 10 mph. Widespread showers and isolated thunderstorms will develop in central Idaho to the northern Rockies, while abundant cloud cover continues in the Greater Four Corners with isolated afternoon showers and thunderstorms. Cool temperatures will continue in California while temperatures remain slightly above normal in Washington. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-19T05:56:11Z",
+  "generated_utc": "2026-09-19T10:46:01Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 325211,
   "fetch": {
-    "fetched_utc": "2026-09-19T05:56:08Z",
-    "duration_seconds": 0.58
+    "fetched_utc": "2026-09-19T10:45:59Z",
+    "duration_seconds": 0.31
   }
 }
