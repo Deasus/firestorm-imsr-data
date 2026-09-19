@@ -683,11 +683,11 @@
   },
   "predictive_services_discussion": "Temperatures will remain hot across the southern plains and middle Mississippi Valley today with highs reaching near 100°F. Breezy winds with gusts 25 to 35 mph will develop from the Texas panhandle across central Oklahoma this afternoon. Flood Watches remain in effect for northern Wyoming and southcentral Montana today as heavy rain continues beneath the upper level trough as it moves east. The eastward movement of the trough will also cause breezy winds gusting to 30 mph to develop along the Front Range and in the eastern Sierra. A warming and drying trend will begin across the Pacific Northwest as a weak and transient ridge of high pressure builds over the area. Well below normal temperatures continue across the Great Basin and Northern Rockies while California remains near to slightly below normal. Relative humidity across northern California will drop to 10-20% while RHs drop to 7-15% across Nevada and the Mojave Desert. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-19T14:15:12Z",
+  "generated_utc": "2026-09-19T17:21:54Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 306114,
   "fetch": {
-    "fetched_utc": "2026-09-19T14:15:10Z",
-    "duration_seconds": 0.25
+    "fetched_utc": "2026-09-19T17:21:53Z",
+    "duration_seconds": 0.17
   }
 }
