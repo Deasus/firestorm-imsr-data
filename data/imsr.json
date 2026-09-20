@@ -674,11 +674,11 @@
   },
   "predictive_services_discussion": "Hot temperatures, very dry fuels, and RH dropping to 20-30% persists across the Lower Mississippi Valley today. The eastward progression of the upper trough and slight weakening of the ridge over the southeast will allow wet thunderstorms to develop this afternoon over central Oklahoma. This will bring relief to the relative humidity there but bring gusty winds as well. Eastern Oklahoma and Texas and the Lower Mississippi Valley will remain dry. Wet thunderstorms develop again today over eastern Montana, Wyoming, and the High Plains with many areas likely to see near 1” of rain. Light winds persist across the Pacific Northwest, though warming and drying will allow relative humidity to drop to 15-25% this afternoon across the Columbia Basin. Relative humidity will drop to 7-18% across Nevada, the Mojave Desert, and the Central Valley this afternoon but winds will remain light with gusts less than 25 mph. Wind gusts to 25 to 30 mph are likely again today across the Front Range and the eastern Sierra. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-20T17:00:41Z",
+  "generated_utc": "2026-09-20T19:28:08Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 274363,
   "fetch": {
-    "fetched_utc": "2026-09-20T17:00:39Z",
-    "duration_seconds": 0.4
+    "fetched_utc": "2026-09-20T19:28:07Z",
+    "duration_seconds": 0.26
   }
 }
