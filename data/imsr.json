@@ -683,11 +683,11 @@
   },
   "predictive_services_discussion": "The lower Mississippi Valley will be the main area of concern today as warm temperatures and dry relative humidities re-establish after isolated thunderstorms moved over the area yesterday. Relative humidity will fall to 35-40% as temperatures rise back into the low to mid 90s, and there will be a few isolated thunderstorms today as well. The reorientation of the high pressure ridge over the southeast will allow southerly flow to draw another round of monsoonal moisture into New Mexico and eastern Arizona, and 2-5 inches of rain is expected there today. Breezy west winds will develop through Cascade gaps this afternoon with gusts to 35 mph, slightly stronger than yesterday. This will include the Columbia Gorge. Relative humidity will drop to 10-20% across northern California with breezy winds and poor overnight humidity recovery again today, though significant fire potential will remain low. A weak cold front moving south through the southern plains will continue to bring isolated showers and thunderstorms to parts of Texas and western Oklahoma. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-22T20:29:15Z",
+  "generated_utc": "2026-09-22T23:13:32Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 272029,
   "fetch": {
-    "fetched_utc": "2026-09-22T20:29:14Z",
-    "duration_seconds": 0.22
+    "fetched_utc": "2026-09-22T23:13:30Z",
+    "duration_seconds": 0.25
   }
 }
