@@ -674,11 +674,11 @@
   },
   "predictive_services_discussion": "Above normal temperatures will continue on the southern Plains to the Lower Mississippi Valley today but temperatures will not be as extreme as the past few weeks. Some locally low relative humidity near 30% is also expected in portions of northeast Texas into the Lower Mississippi Valley. Temperatures will also be a bit above normal in the northwestern U.S. with seasonally low relative humidity and light winds. Deep tropical moisture will continue to affect eastern Arizona into New Mexico and southern Colorado today with widespread showers and scattered thunderstorms, with areas of flooding likely near and east of the New Mexico central mountains. Scattered showers and thunderstorms will develop across the northern Plains today as a weak cold front moves through. Widespread showers will continue in the Mid-Atlantic today, but rainfall will not be as heavy as the past two days. Developing low pressure off the coast will also bring strong northeast winds to much of the East Coast from southern New England to the Carolinas. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-23T17:23:50Z",
+  "generated_utc": "2026-09-23T20:37:53Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 221887,
   "fetch": {
-    "fetched_utc": "2026-09-23T17:23:49Z",
-    "duration_seconds": 0.35
+    "fetched_utc": "2026-09-23T20:37:52Z",
+    "duration_seconds": 0.39
   }
 }
