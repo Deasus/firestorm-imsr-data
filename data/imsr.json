@@ -674,11 +674,11 @@
   },
   "predictive_services_discussion": "An upper level trough will move eastward over the northwest today, bringing southwest winds 15-20 mph with higher gusts along with afternoon relative humidity in the 15-25% range across northeastern California and southeastern Oregon. Higher winds with 25-35 mph gusts are expected across northwestern Nevada including the Sierra Front and western Idaho in combination with RH values of 12-18%. Above normal temperatures continue across the southern Plains and lower Mississippi Valley along with seasonably low RH and locally breezy north winds. Heavy rain at times along with cloud cover and near to below normal temperatures will continue across the desert Southwest. A strong Nor’easter will continue to bring strong winds, heavy rain, and coastal flooding to the mid-Atlantic coast. In Hawaii, Tropical Depression 15-E, forecasted to become Hurricane Nolo will begin to track northward toward the Big Island, bringing heavy rain, flash flooding concerns, and strong winds. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-25T07:37:03Z",
+  "generated_utc": "2026-09-25T12:59:46Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 224158,
   "fetch": {
-    "fetched_utc": "2026-09-25T07:37:01Z",
-    "duration_seconds": 0.62
+    "fetched_utc": "2026-09-25T12:59:44Z",
+    "duration_seconds": 0.47
   }
 }
