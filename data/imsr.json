@@ -674,11 +674,11 @@
   },
   "predictive_services_discussion": "Southwesterly winds 15-25 mph with gusts 30-40 mph will develop across northeast California into the northern Great Basin and southwest to central Montana today. Minimum relative humidity will be lowest from 10-20% from northern Nevada into central Montana with areas of elevated conditions expected. Breezy west winds will also occur in the Columbia Basin but will be accompanied by higher humidity above 30% and isolated to scattered showers. More widespread rainfall is expected near and west of the Cascades in Oregon and Washington, with wetting rain also expected in northern Idaho to western Montana. Warm and dry conditions are expected in southern California, but winds will be light outside the deserts. Widespread showers and scattered thunderstorms will continue in New Mexico, but areas of flooding are likely to be more localized than previous days. Above normal temperatures will continue in the southern Plains to Lower Mississippi Valley but with light winds and minimum relative humidity near or above 30%. A strong Nor’easter will develop off the Mid-Atlantic coast with strong northeast winds expected near the coast, with rain expected to spread into southern New England overnight. Areas of heavy rain are expected for the Big Island of Hawai’i and Maui as Hurricane Nolo approaches. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-26T00:03:55Z",
+  "generated_utc": "2026-09-26T05:02:29Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 259753,
   "fetch": {
-    "fetched_utc": "2026-09-26T00:03:53Z",
-    "duration_seconds": 0.59
+    "fetched_utc": "2026-09-26T05:02:27Z",
+    "duration_seconds": 0.24
   }
 }
