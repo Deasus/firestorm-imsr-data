@@ -656,11 +656,11 @@
   },
   "predictive_services_discussion": "Above normal temperatures will persist across the southern Plains into the Lower Mississippi Valley today, with areas of low afternoon relative humidity as low as 25% but winds will be light. In the West, temperatures will average below normal as winds are mostly light, with areas of low afternoon relative humidity in central and southern California into Nevada. Scattered showers and isolated thunderstorms will develop later in the day across the Southwest as moisture from Hurricane Polo off the Mexico coast moves northward. Isolated showers and thunderstorms will also develop in the Lower Mississippi Valley, while rain occurs along a cold front in the northern Plains. Heavy rain is expected in much of southern and eastern New England today as the strong Nor’easter continues to affect the areas, with strong northeast winds and coastal flooding continuing, as well. Winds will slowly weaken in Hawai’i as Hurricane Nolo moves westward away from the islands, with a decrease in showers also expected. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-27T23:49:25Z",
+  "generated_utc": "2026-09-28T04:47:00Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 196941,
   "fetch": {
-    "fetched_utc": "2026-09-27T23:49:23Z",
-    "duration_seconds": 0.41
+    "fetched_utc": "2026-09-28T04:46:59Z",
+    "duration_seconds": 0.25
   }
 }
