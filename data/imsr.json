@@ -638,11 +638,11 @@
   },
   "predictive_services_discussion": "Breezy northerly winds are expected today in portions of the Sacramento Valley and southern California amid relative humidity of 10-15% creating elevated conditions. Downslope westerly winds are also expected in north- central Montana east of the Divide amid relative humidity of 15-25%. However, moisture from decaying Hurricane Polo will persist in the Southwest and Colorado today, with widespread wetting rainfall and areas of flooding as local amounts near 3 inches are possible. Scattered showers and thunderstorms are also expected north and eastward into the central Plains and Midwest. Farther east, dry and breezy south winds are expected in the southern Plains amid above normal temperatures creating locally elevated conditions. In the Lower Mississippi Valley, winds will be light but relative humidity will be very low for the area with minima of 20-35%. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-09-30T00:13:44Z",
+  "generated_utc": "2026-09-30T05:41:41Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 218736,
   "fetch": {
-    "fetched_utc": "2026-09-30T00:13:43Z",
-    "duration_seconds": 0.18
+    "fetched_utc": "2026-09-30T05:41:40Z",
+    "duration_seconds": 0.28
   }
 }
