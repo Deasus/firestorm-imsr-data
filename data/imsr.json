@@ -638,11 +638,11 @@
   },
   "predictive_services_discussion": "Locally breezy northerly winds in portions of the Sacramento Valley and southern California diminish this morning, but relative humidity of 10-15% will persist amid above normal temperatures. Lighter winds are expected today across the northwestern U.S. as a weak cold front moves through with temperatures either slightly above or below normal ahead of or behind the front, respectively. An upper-level low will move through the Southwest and Colorado with scattered showers and thunderstorms and below normal temperatures. A cold front will stretch from Colorado into the Great Lakes with widespread showers and scattered thunderstorms. Widespread showers and thunderstorms, with a few severe thunderstorms, will produce areas of heavy rain and flooding in central Texas and Oklahoma today as moisture from the remnants of Hurricane Polo move across the region. Farther east, breezy south winds of 10-18 mph are expected amid above normal temperatures and minimum relative humidity of 25-35% creating elevated conditions. Otherwise, isolated showers and thunderstorms will continue across the Gulf Coast and Florida. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-01T00:46:27Z",
+  "generated_utc": "2026-10-01T07:02:53Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 184206,
   "fetch": {
-    "fetched_utc": "2026-10-01T00:46:26Z",
-    "duration_seconds": 0.11
+    "fetched_utc": "2026-10-01T07:02:52Z",
+    "duration_seconds": 0.21
   }
 }
