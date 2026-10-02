@@ -638,11 +638,11 @@
   },
   "predictive_services_discussion": "A slow-moving storm will bring widespread showers and thunderstorms across central and east Texas into the eastern Oklahoma and the Mid-Mississippi Valley, with areas of flooding possible in Texas. Farther east, breezy south winds of 10-20 mph are expected amid above normal temperatures in the Lower Mississippi Valley, but overall relative humidity will begin to gradually increase. Scattered showers and thunderstorms will also develop today along the Gulf Coast and Florida, with showers into the Ohio Valley and Lower Great Lakes, as well. A warming trend will continue across the West, with temperatures rising above 90°F in the lower elevations of California, with above normal temperatures spreading into the Northwest and northern Rockies. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-01T23:48:20Z",
+  "generated_utc": "2026-10-02T05:02:14Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 212032,
   "fetch": {
-    "fetched_utc": "2026-10-01T23:48:19Z",
-    "duration_seconds": 0.57
+    "fetched_utc": "2026-10-02T05:02:13Z",
+    "duration_seconds": 0.24
   }
 }
