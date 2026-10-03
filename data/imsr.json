@@ -638,11 +638,11 @@
   },
   "predictive_services_discussion": "A cold front will slowly move across east Texas, the Tennessee Valley, Appalachians, Mid-Atlantic, and Northeast today bringing scattered to widespread showers and thunderstorms. The heaviest rain will fall in east Texas and the Ohio to Tennessee Valleys. Isolated to scattered showers and thunderstorms will also develop in much of the Southeast ahead of the front, with the most widespread storms along the northern Gulf Coast and in Florida. In the West, the warming trend continues as temperatures rise to 5-15°F above normal across most of the West, with only portions of the Southwest remaining near to below normal. Minimum relative humidity will remain very low in California and Nevada at 5-15% with areas of poor overnight recovery, with higher minima of 15-30% in the northern Intermountain West. Winds will be light in California and Nevada, but locally breezy west winds will develop near and east of the Divide in Montana and Wyoming. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-03T05:47:20Z",
+  "generated_utc": "2026-10-03T11:24:42Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 208467,
   "fetch": {
-    "fetched_utc": "2026-10-03T05:47:18Z",
-    "duration_seconds": 0.66
+    "fetched_utc": "2026-10-03T11:24:42Z",
+    "duration_seconds": 0.24
   }
 }
