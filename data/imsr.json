@@ -647,11 +647,11 @@
   },
   "predictive_services_discussion": "Very warm and dry conditions will continue in California and Nevada with high temperatures 85-100°F, which are as much as 20 degrees above normal. Very low relative humidity of 5-15% will persist and poor overnight recovery of 20-40% is expected for mid-slopes and ridges. Above normal temperatures will stretch north and eastward into much of the northern half of the West and Rockies, but temperatures will remain near to below normal in most of the Southwest. A cold front along the northern Gulf Coast and into the Southeast will begin to stall with scattered to widespread showers and thunderstorms bringing relief from the very dry conditions of late. A weak cold front will move through the northern Plains and Upper Midwest with scattered light showers. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-03T21:50:07Z",
+  "generated_utc": "2026-10-04T00:25:29Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 180880,
   "fetch": {
-    "fetched_utc": "2026-10-03T21:50:06Z",
-    "duration_seconds": 0.44
+    "fetched_utc": "2026-10-04T00:25:28Z",
+    "duration_seconds": 0.21
   }
 }
