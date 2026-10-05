@@ -638,11 +638,11 @@
   },
   "predictive_services_discussion": "Very warm and dry conditions will expand across more of the West today with afternoon highs 10-20°F above normal from the northern Rockies and Northwest south to California and Nevada. Maxima near 100°F are expected in the California Central Valley and portions of southern California. Very low relative humidity of 5-15% will persist in California and Nevada, spreading into Oregon and Idaho, and poor overnight recovery of 20-40% is expected for mid-slopes and ridges. However, temperatures will remain near to below normal in the Southwest. A stalled cold front along the northern Gulf Coast and into the Southeast will bring scattered to widespread showers and thunderstorms and areas of heavy rain bringing significant relief from the very dry conditions of late. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-04T23:14:00Z",
+  "generated_utc": "2026-10-05T02:04:52Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 201143,
   "fetch": {
-    "fetched_utc": "2026-10-04T23:13:59Z",
-    "duration_seconds": 0.1
+    "fetched_utc": "2026-10-05T02:04:51Z",
+    "duration_seconds": 0.18
   }
 }
