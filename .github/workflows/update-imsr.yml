@@ -16,6 +16,13 @@ name: Update IMSR Data (NICC Incident Management Situation Report)
 # investigate (URL change, NIFC rate-limit, etc.).
 #
 # Public repo → unlimited free GHA minutes.
+#
+# 2026-10-05 — THE LOOP HAD NEVER RUN. Measured: every run in history was a `schedule` event
+# (~5/day). Two bugs, either fatal: (1) the re-dispatch step only ran on workflow_dispatch,
+# but a chain can only be started by a schedule run; (2) it slept 850 s inside an 8-min
+# (480 s) job, so a dispatched run would be killed mid-sleep anyway. Now: queue the successor
+# FIRST (the concurrency group holds it until this run ends), fetch, then wait out the rest
+# of a 15-min slot, inside a 20-min timeout.
 on:
   schedule:
     - cron: '*/15 * * * *'       # dead-man restart; real cadence is the self-loop
@@ -31,9 +38,18 @@ jobs:
     concurrency:
       group: update-imsr
       cancel-in-progress: false
-    timeout-minutes: 8
+    timeout-minutes: 20
     steps:
+      - name: mark the slot start
+        run: echo "SLOT_START=$(date +%s)" >> "$GITHUB_ENV"
+
       - uses: actions/checkout@v4
+
+      - name: queue the next run (first, so this run cannot break the chain)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh workflow run update-imsr.yml --ref main || echo "::warning::re-dispatch failed; the schedule will restart the chain"
 
       - uses: actions/setup-python@v5
         with:
@@ -56,13 +72,8 @@ jobs:
             git push || echo 'push failed (will retry next dispatch)'
           fi
 
-      - name: Self re-dispatch in ~15 min
-        if: github.event_name == 'workflow_dispatch'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: wait out the rest of the 15-min slot
+        if: always()
         run: |
-          # Sleep slightly under 15 min so the next cycle starts close to the
-          # quarter-hour boundary. We deliberately avoid drifting into the next
-          # cron window where the schedule-trigger would also fire.
-          sleep 850
-          gh workflow run update-imsr.yml || echo 'self-dispatch failed (cron will recover)'
+          left=$(( 900 - ($(date +%s) - SLOT_START) ))
+          if [ "$left" -gt 0 ]; then echo "sleeping ${left}s to the next slot"; sleep "$left"; fi
