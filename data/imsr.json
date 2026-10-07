@@ -647,11 +647,11 @@
   },
   "predictive_services_discussion": "Very hot temperatures reaching into the low 100s will continue across the California Central Valley and portions of southern California this afternoon with very low relative humidity of 10-20%. Winds will be light across most of California however. Afternoon highs 5-15°F above normal continue across the Great Basin and into Montana and Wyoming. Winds in Montana and Wyoming will be locally breezy, but generally not as windy as Monday. Near normal temperatures are expected across the Southwest and through the lower Mississippi Valley, while below normal temperatures are expected across the east coast. Moderate to heavy rain will continue across Florida and southern Georgia. Scattered showers and isolated thunderstorms are expected across the Wasatch and the Colorado Rockies. Mainly dry conditions will prevail elsewhere. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-07T01:36:21Z",
+  "generated_utc": "2026-10-07T02:06:32Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 206367,
   "fetch": {
-    "fetched_utc": "2026-10-07T01:36:19Z",
-    "duration_seconds": 0.49
+    "fetched_utc": "2026-10-07T02:06:31Z",
+    "duration_seconds": 0.33
   }
 }
