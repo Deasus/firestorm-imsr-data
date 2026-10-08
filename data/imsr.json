@@ -638,11 +638,11 @@
   },
   "predictive_services_discussion": "Conditions remain hot and dry across most of the West with highs reaching into the low 100s across California and Extreme Heat Warnings and Heat Advisories remaining in effect. Relative humidity will again dip into the teens across California and the Great Basin today with poor overnight recoveries. Temperatures will moderate some but remain 5-10°F above normal with highs reaching the 70s and 80s across the Great Basin, Montana, and Wyoming. Near to slightly above normal temperatures are expected across the rest of the country. Winds will be mostly light today, but breezy across the Rockies with gusts to 25 mph and breezy across northern Wisconsin and Michigan with gusts to 35 mph. Isolated showers and thunderstorms will develop near the Four Corners region this afternoon, and showers and thunderstorms with locally heavy rainfall amounts will continue over Florida. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-08T01:53:37Z",
+  "generated_utc": "2026-10-08T02:23:52Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 203682,
   "fetch": {
-    "fetched_utc": "2026-10-08T01:53:35Z",
-    "duration_seconds": 0.58
+    "fetched_utc": "2026-10-08T02:23:51Z",
+    "duration_seconds": 0.51
   }
 }
