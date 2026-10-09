@@ -647,11 +647,11 @@
   },
   "predictive_services_discussion": "Very hot temperatures up to 105℉ continue across California where Extreme Heat Warnings and Heat Advisories remain in effect through Friday evening. Winds will be mostly light, but northerly winds may gust 20-25 mph over the high terrain near the Sierra Front. Relative humidity across the Great Basin will continue to drop into the teens with poor overnight recovery as temperatures 5-15℉ above normal persist there and spread east across the northern Plains. Hot, dry, and breezy conditions will develop across the lower Mississippi Valley ahead of Hurricane Isaias. Scattered showers and isolated thunderstorms will develop across the Four Corners region today and light rain will fall across the Northeast. Precipitation will otherwise be limited to showers across central Florida, though these will be heavy at times. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-09T10:57:13Z",
+  "generated_utc": "2026-10-09T11:27:30Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 230216,
   "fetch": {
-    "fetched_utc": "2026-10-09T10:57:11Z",
-    "duration_seconds": 0.57
+    "fetched_utc": "2026-10-09T11:27:29Z",
+    "duration_seconds": 0.1
   }
 }
