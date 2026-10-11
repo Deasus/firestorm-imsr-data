@@ -656,11 +656,11 @@
   },
   "predictive_services_discussion": "The pattern change continues to progress today with widespread moisture and cool conditions across the Rocky Mountains and the Great Basin. Northern California will remain gusty and dry however with RH dropping into the teens, though some rainfall is expected across the northeast and far eastside. Moisture from the remnants of Hurricane Rachel will be drawn northward to bring areas of moderate to heavy rain to southern California, Arizona, and southern Nevada. Winds will also be quite strong with gusts to 50 mph across southern California and Arizona. High temperatures will be 10 to 20 degrees below normal across most areas west of the Rockies. The Pacific Northwest will also see some breezy north and northeast winds with gusts to 35 mph across the Columbia Basin and most of Oregon. Dry and hot weather will follow Isaias across the south today, but winds will be much lighter. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-11T17:22:37Z",
+  "generated_utc": "2026-10-11T17:52:51Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 209339,
   "fetch": {
-    "fetched_utc": "2026-10-11T17:22:35Z",
+    "fetched_utc": "2026-10-11T17:52:49Z",
     "duration_seconds": 0.53
   }
 }
