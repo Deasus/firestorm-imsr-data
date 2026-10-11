@@ -647,11 +647,11 @@
   },
   "predictive_services_discussion": "A deep trough of low pressure will continue to drop south over the western US, bringing a significant cooldown to the Pacific Northwest and the Great Basin. Winds will still be strong along the Sierra Front with gusts 40-45 mph and along the leading edge of the trough east of the Rockies, but precipitation will begin to increase to the west. Snow is likely across western Montana and Wyoming. Showers and isolated thunderstorms will move across southern California in the afternoon, where southerly and westerly winds of 20-30 mph with gusts to 50 mph will continue across mountain ridges and desert passes. Down south, Hurricane Isaias is rapidly weakening as it moves inland across Alabama, though a narrow corridor of critical RH below 35% and north and northwest winds gusting 25-45 mph is likely to develop west of the storm in the afternoon. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-11T02:00:25Z",
+  "generated_utc": "2026-10-11T02:30:40Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 205219,
   "fetch": {
-    "fetched_utc": "2026-10-11T02:00:24Z",
-    "duration_seconds": 0.32
+    "fetched_utc": "2026-10-11T02:30:39Z",
+    "duration_seconds": 0.44
   }
 }
