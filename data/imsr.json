@@ -656,11 +656,11 @@
   },
   "predictive_services_discussion": "Warm and dry conditions continue across eastern Arkansas, northern Louisiana, and Mississippi today. Northern California will see a return to above normal temperatures but with lighter winds while southern California sees slight warming but temperatures staying 10 to 15 degrees below normal. Below normal temperatures and widespread precipitation continue across the Great Basin. This is likely being a season ending event for areas of the Great Basin still seeing fire activity. Cool conditions continue across the northern Rockies. Across the Rockies and the Southwest, precipitation shifts to east of the Continental Divide with minimal fire potential through this week. The Northwest will see a return to near normal temperatures as high pressure over the northeast Pacific drifts over the area. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-13T18:01:11Z",
+  "generated_utc": "2026-10-13T18:31:30Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 181862,
   "fetch": {
-    "fetched_utc": "2026-10-13T18:01:10Z",
-    "duration_seconds": 0.42
+    "fetched_utc": "2026-10-13T18:31:28Z",
+    "duration_seconds": 0.96
   }
 }
