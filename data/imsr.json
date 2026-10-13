@@ -656,11 +656,11 @@
   },
   "predictive_services_discussion": "A ridge of high pressure building in the wake of Isaias will bring hot, unstable, and windy conditions to northern Louisiana and east Arkansas today. A trough of low pressure over the inland Northwest will weaken today, though below normal temperatures will continue there and across the Great Basin with widespread precipitation across the Great Basin as well. Temperatures begin to rebound over northern California, but there will be less wind today and still some showers over the Far Eastside and Tahoe regions. Showers and isolated thunderstorms continue across southern California along with south to west winds of 20 to 30 mph with gusts to 50 mph across the mountain ridges and desert passes. Temperatures there will cool to 15 to 20 degrees below normal. Cool conditions continue across the northern Rockies with widespread precipitation across the Southwest. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-13T11:12:33Z",
+  "generated_utc": "2026-10-13T11:42:51Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 211412,
   "fetch": {
-    "fetched_utc": "2026-10-13T11:12:32Z",
-    "duration_seconds": 0.59
+    "fetched_utc": "2026-10-13T11:42:50Z",
+    "duration_seconds": 0.5
   }
 }
