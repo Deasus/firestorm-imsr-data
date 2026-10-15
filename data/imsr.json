@@ -664,11 +664,11 @@
   },
   "predictive_services_discussion": "An upper-level low will slowly move eastward through the central Rockies today with widespread showers, falling as snow above 7,000 to 8,000 feet. To the east, a slow-moving cold front will continue to bring widespread showers and thunderstorms to the central Plains and Mid-Mississippi Valley today, with widespread showers and thunderstorms also expected in west Texas today as tropical moisture from Mexico and Pacific Hurricane Simon moves northward. A cold front will also move through the Northeast and Mid-Atlantic with light precipitation while the Southeast and Lower Mississippi Valley are dry. Dry weather is expected across most of the rest of the West, with above-normal temperatures expected across much of the West Coast. Light, but dry trade winds are expected in Hawai’i while cool temperatures and isolated snow showers are expected in Interior Alaska. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-15T12:24:49Z",
+  "generated_utc": "2026-10-15T12:55:02Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 222235,
   "fetch": {
-    "fetched_utc": "2026-10-15T12:24:47Z",
-    "duration_seconds": 0.45
+    "fetched_utc": "2026-10-15T12:55:01Z",
+    "duration_seconds": 0.34
   }
 }
