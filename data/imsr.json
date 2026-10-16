@@ -655,11 +655,11 @@
   },
   "predictive_services_discussion": "Strong easterly winds are expected across California and the Southwest, with the greatest concern in California. Moderate Santa Ana winds are expected in southern California, with strong downslope winds for the west slope of the Sierra creating elevated conditions for these areas. However, rainfall last week from Tropical Storm Rachel will mitigate conditions across far southern California. A slow-moving cold front will bring scattered to widespread showers and thunderstorms from west Texas to the Mid-Mississippi Valley, with widespread rain expected in much of the Midwest, as well. Dry conditions will persist in the Southeast, with isolated thunderstorms in south Florida. The northern half of the West will be dry with a warming trend as temperatures rise to 10-20°F above normal. A strong storm in the Gulf of Alaska will bring heavy rain to the south coast and panhandle of Alaska, with areas of flooding possible in the southern panhandle. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-16T05:48:52Z",
+  "generated_utc": "2026-10-16T06:19:07Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 211947,
   "fetch": {
-    "fetched_utc": "2026-10-16T05:48:51Z",
-    "duration_seconds": 0.56
+    "fetched_utc": "2026-10-16T06:19:06Z",
+    "duration_seconds": 0.65
   }
 }
