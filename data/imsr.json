@@ -1,12 +1,12 @@
 {
   "summary": {
-    "report_date_human": "Sunday October 18, 2026",
+    "report_date_human": "Monday October 19, 2026",
     "report_time": "0730 MDT",
     "national_preparedness_level": 1,
-    "initial_attack_activity": "Light (85 fires)",
-    "new_large_incidents": 3,
-    "large_fires_contained": 4,
-    "uncontained_large_fires": 12,
+    "initial_attack_activity": "Light (76 fires)",
+    "new_large_incidents": 0,
+    "large_fires_contained": 0,
+    "uncontained_large_fires": 10,
     "cimts_committed": 0,
     "nimos_committed": 0
   },
@@ -25,35 +25,35 @@
     {
       "gacc": "NWCC",
       "pl": 1,
-      "incidents": 12,
-      "cumulative_acres": 481074,
-      "crews": 23,
-      "engines": 31,
+      "incidents": 13,
+      "cumulative_acres": 490651,
+      "crews": 24,
+      "engines": 32,
       "helicopters": 6,
-      "total_personnel": 1192,
-      "change_in_personnel": 469
+      "total_personnel": 1223,
+      "change_in_personnel": 31
     },
     {
       "gacc": "ONCC",
       "pl": 2,
       "incidents": 1,
-      "cumulative_acres": 731,
-      "crews": 26,
-      "engines": 16,
-      "helicopters": 7,
-      "total_personnel": 797,
-      "change_in_personnel": 797
+      "cumulative_acres": 1037,
+      "crews": 35,
+      "engines": 47,
+      "helicopters": 2,
+      "total_personnel": 790,
+      "change_in_personnel": -7
     },
     {
       "gacc": "OSCC",
       "pl": 3,
-      "incidents": 7,
-      "cumulative_acres": 36707,
-      "crews": 53,
-      "engines": 180,
-      "helicopters": 8,
-      "total_personnel": 2188,
-      "change_in_personnel": -423
+      "incidents": 6,
+      "cumulative_acres": 36623,
+      "crews": 32,
+      "engines": 102,
+      "helicopters": 7,
+      "total_personnel": 1372,
+      "change_in_personnel": -816
     },
     {
       "gacc": "NRCC",
@@ -69,13 +69,13 @@
     {
       "gacc": "GBCC",
       "pl": 2,
-      "incidents": 2,
-      "cumulative_acres": 42234,
+      "incidents": 1,
+      "cumulative_acres": 6889,
       "crews": 0,
-      "engines": 1,
-      "helicopters": 1,
-      "total_personnel": 16,
-      "change_in_personnel": -1
+      "engines": 0,
+      "helicopters": 0,
+      "total_personnel": 1,
+      "change_in_personnel": -15
     },
     {
       "gacc": "SWCC",
@@ -105,32 +105,32 @@
       "incidents": 4,
       "cumulative_acres": 1573,
       "crews": 0,
-      "engines": 20,
+      "engines": 14,
       "helicopters": 0,
-      "total_personnel": 116,
-      "change_in_personnel": -23
+      "total_personnel": 91,
+      "change_in_personnel": -25
     },
     {
       "gacc": "SACC",
       "pl": 2,
-      "incidents": 8,
-      "cumulative_acres": 1164,
+      "incidents": 7,
+      "cumulative_acres": 1162,
       "crews": 0,
       "engines": 3,
       "helicopters": 0,
-      "total_personnel": 33,
-      "change_in_personnel": 5
+      "total_personnel": 27,
+      "change_in_personnel": -6
     },
     {
       "gacc": "Total",
       "pl": null,
-      "incidents": 37,
-      "cumulative_acres": 674494,
-      "crews": 102,
-      "engines": 253,
-      "helicopters": 22,
-      "total_personnel": 4360,
-      "change_in_personnel": 824
+      "incidents": 35,
+      "cumulative_acres": 648946,
+      "crews": 91,
+      "engines": 200,
+      "helicopters": 15,
+      "total_personnel": 3522,
+      "change_in_personnel": -838
     }
   ],
   "gacc_sections": [
@@ -138,19 +138,19 @@
       "gacc": "OSCC",
       "area": "Southern California Area",
       "preparedness_level": 3,
-      "new_fires": 13,
+      "new_fires": 16,
       "new_large_incidents": 0,
       "uncontained_large_fires": 3,
-      "narrative": "Henderson, Marine Corps Base Camp Pendleton, DOW. Three miles north of Oceanside, CA. Grass, brush and chaparral. Minimal fire behavior. Critical infrastructure threatened. Road closures in effect. Norte, Orange County Fire Authority. One mile northwest of San Clemente, CA. Grass and chaparral. Active fire behavior with smoldering, creeping and running. Numerous residences threatened. Road and trail closures in effect. Timber, Los Padres NF, USFS. Four miles southeast of Big Sur, CA. Grass, timber and chaparral. Minimal fire behavior with creeping and smoldering. Area, road and trail closures in effect."
+      "narrative": "Henderson, Marine Corps Base Camp Pendleton, DOW. Three miles north of Oceanside, CA. Grass, brush and chaparral. Minimal fire behavior. Critical infrastructure threatened. Road closures in effect. Norte, Orange County Fire Authority. One mile northwest of San Clemente, CA. Grass and chaparral. Minimal fire behavior with smoldering, creeping and running. Road and trail closures in effect. Timber, Los Padres NF, USFS. Four miles southeast of Big Sur, CA. Grass, timber and chaparral. Minimal fire behavior with creeping and smoldering. Area, road and trail closures in effect."
     },
     {
       "gacc": "NWCC",
       "area": "Northwest Area",
       "preparedness_level": 1,
-      "new_fires": 2,
+      "new_fires": 1,
       "new_large_incidents": 0,
       "uncontained_large_fires": 3,
-      "narrative": "Sisi, Okanogan-Wenatchee NF, USFS. Ten miles northwest of Stehekin, WA. Timber and closed timber litter. Moderate fire behavior with smoldering, backing and flanking. Residences threatened. Area, road and trail closures in effect. Austin, Mt. Hood NF, USFS. Twenty-five miles southeast of Estacada, OR. Brush, timber and closed timber litter. Minimal fire behavior with smoldering. Area, road and trail closures in effect. Grasshopper, Mt. Hood NF, USFS. Fourteen miles southwest of Dufur, OR. Brush, hardwood litter and closed timber litter. Minimal fire behavior with creeping and smoldering. Area, road and trail closures in effect."
+      "narrative": "Austin, Mt. Hood NF, USFS. Twenty-five miles southeast of Estacada, OR. Brush, timber and closed timber litter. Minimal fire behavior with smoldering. Area, road and trail closures in effect. Grasshopper, Mt. Hood NF, USFS. Fourteen miles southwest of Dufur, OR. Brush, hardwood litter and closed timber litter. Minimal fire behavior with creeping and smoldering. Area, road and trail closures in effect. Sisi, Okanogan-Wenatchee NF, USFS. Ten miles northwest of Stehekin, WA. Timber and closed timber litter. No new information."
     },
     {
       "gacc": "EACC",
@@ -158,43 +158,25 @@
       "preparedness_level": 1,
       "new_fires": 0,
       "new_large_incidents": 0,
-      "uncontained_large_fires": 3,
-      "narrative": "Ridge, Michigan DNR. Six miles north of Negaunee, MI. Timber and hardwood litter. Minimal fire behavior with smoldering. Structures threatened. Trail closures in effect. Black River, Michigan DNR. Four miles south of Wakefield, MI. Timber and grass. Minimal fire behavior with smoldering. Residences threatened. Craig Lake 1, Michigan DNR. Seven miles northwest of Michigamme, MI. Hardwood litter and timber. Minimal fire behavior with smoldering. Last report unless significant activity occurs."
-    },
-    {
-      "gacc": "SACC",
-      "area": "Southern Area",
-      "preparedness_level": 2,
-      "new_fires": 46,
-      "new_large_incidents": 1,
-      "uncontained_large_fires": 1,
-      "narrative": "Mount Pilgrim Road, Mississippi Forestry Commission. Twelve miles northeast of Canton, MS. Timber. No new information. Last narrative report unless new information is received."
+      "uncontained_large_fires": 2,
+      "narrative": "Ridge, Michigan DNR. Six miles north of Negaunee, MI. Timber and hardwood litter. Minimal fire behavior with smoldering. Structures threatened. Trail closures in effect. Black River, Michigan DNR. Four miles south of Wakefield, MI. Timber and grass. Minimal fire behavior with smoldering. Residences threatened."
     },
     {
       "gacc": "ONCC",
       "area": "Northern California Area",
       "preparedness_level": 2,
       "new_fires": 19,
-      "new_large_incidents": 1,
-      "uncontained_large_fires": 1,
-      "narrative": "* Cooley, Mendocino Unit, Cal Fire. Four miles south of Yorkville, CA. Timber and brush. Moderate fire behavior with backing."
-    },
-    {
-      "gacc": "RMCC",
-      "area": "Rocky Mountain Area",
-      "preparedness_level": 2,
-      "new_fires": 0,
       "new_large_incidents": 0,
       "uncontained_large_fires": 1,
-      "narrative": "Pk, Sheridan County. Ten miles west of Sheridan, WY. Brush, grass and timber. Minimal fire behavior with smoldering. Last report unless significant activity occurs."
+      "narrative": "Cooley, Mendocino Unit, Cal Fire. Four miles south of Yorkville, CA. Timber and brush. Moderate fire behavior with backing."
     },
     {
-      "gacc": "GBCC",
-      "area": "Great Basin Area",
+      "gacc": "SACC",
+      "area": "Southern Area",
       "preparedness_level": 2,
-      "new_fires": 3,
-      "new_large_incidents": 1,
-      "uncontained_large_fires": 0,
+      "new_fires": 35,
+      "new_large_incidents": 0,
+      "uncontained_large_fires": 1,
       "narrative": null
     }
   ],
@@ -228,9 +210,9 @@
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 1,
+          "ST_OT": 0,
           "USFS": 1,
-          "TOTAL": 2
+          "TOTAL": 1
         },
         "acres": {
           "BIA": 0,
@@ -238,8 +220,8 @@
           "FWS": 0,
           "NPS": 0,
           "ST_OT": 0,
-          "USFS": 6,
-          "TOTAL": 6
+          "USFS": 0,
+          "TOTAL": 0
         }
       },
       {
@@ -249,8 +231,8 @@
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 17,
-          "USFS": 2,
+          "ST_OT": 11,
+          "USFS": 8,
           "TOTAL": 19
         },
         "acres": {
@@ -258,30 +240,30 @@
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 70,
-          "USFS": 0,
-          "TOTAL": 70
+          "ST_OT": 698,
+          "USFS": 5,
+          "TOTAL": 703
         }
       },
       {
         "area": "Southern California",
         "fires": {
           "BIA": 0,
-          "BLM": 1,
+          "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 11,
-          "USFS": 1,
-          "TOTAL": 13
+          "ST_OT": 16,
+          "USFS": 0,
+          "TOTAL": 16
         },
         "acres": {
           "BIA": 0,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 1924,
-          "USFS": 1,
-          "TOTAL": 1925
+          "ST_OT": 81,
+          "USFS": 0,
+          "TOTAL": 81
         }
       },
       {
@@ -291,9 +273,9 @@
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 2,
+          "ST_OT": 0,
           "USFS": 0,
-          "TOTAL": 2
+          "TOTAL": 0
         },
         "acres": {
           "BIA": 0,
@@ -309,21 +291,21 @@
         "area": "Great Basin",
         "fires": {
           "BIA": 0,
-          "BLM": 2,
+          "BLM": 1,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 0,
-          "USFS": 1,
-          "TOTAL": 3
+          "ST_OT": 1,
+          "USFS": 2,
+          "TOTAL": 4
         },
         "acres": {
           "BIA": 0,
-          "BLM": 503,
+          "BLM": 1619,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 0,
-          "USFS": 0,
-          "TOTAL": 503
+          "ST_OT": 1,
+          "USFS": 1,
+          "TOTAL": 1621
         }
       },
       {
@@ -355,8 +337,8 @@
           "FWS": 0,
           "NPS": 0,
           "ST_OT": 0,
-          "USFS": 0,
-          "TOTAL": 0
+          "USFS": 1,
+          "TOTAL": 1
         },
         "acres": {
           "BIA": 0,
@@ -392,43 +374,43 @@
       {
         "area": "Southern Area",
         "fires": {
-          "BIA": 1,
+          "BIA": 0,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 44,
-          "USFS": 1,
-          "TOTAL": 46
+          "ST_OT": 33,
+          "USFS": 2,
+          "TOTAL": 35
         },
         "acres": {
           "BIA": 0,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 697,
-          "USFS": 93,
-          "TOTAL": 790
+          "ST_OT": 390,
+          "USFS": 0,
+          "TOTAL": 390
         }
       }
     ],
     "totals": {
       "fires": {
-        "BIA": 1,
-        "BLM": 3,
+        "BIA": 0,
+        "BLM": 1,
         "FWS": 0,
         "NPS": 0,
-        "ST_OT": 75,
-        "USFS": 6,
-        "TOTAL": 85
+        "ST_OT": 61,
+        "USFS": 14,
+        "TOTAL": 76
       },
       "acres": {
         "BIA": 0,
-        "BLM": 503,
+        "BLM": 1619,
         "FWS": 0,
         "NPS": 0,
-        "ST_OT": 2691,
-        "USFS": 100,
-        "TOTAL": 3294
+        "ST_OT": 1170,
+        "USFS": 5,
+        "TOTAL": 2794
       }
     }
   },
@@ -463,8 +445,8 @@
           "FWS": 28,
           "NPS": 52,
           "ST_OT": 1660,
-          "USFS": 809,
-          "TOTAL": 3103
+          "USFS": 810,
+          "TOTAL": 3104
         },
         "acres": {
           "BIA": 115935,
@@ -483,18 +465,18 @@
           "BLM": 18,
           "FWS": 2,
           "NPS": 33,
-          "ST_OT": 2321,
-          "USFS": 392,
-          "TOTAL": 2828
+          "ST_OT": 2332,
+          "USFS": 400,
+          "TOTAL": 2847
         },
         "acres": {
           "BIA": 7736,
           "BLM": 70418,
           "FWS": 5,
           "NPS": 53,
-          "ST_OT": 18711,
-          "USFS": 8354,
-          "TOTAL": 105277
+          "ST_OT": 19409,
+          "USFS": 8359,
+          "TOTAL": 105979
         }
       },
       {
@@ -504,18 +486,18 @@
           "BLM": 78,
           "FWS": 5,
           "NPS": 46,
-          "ST_OT": 3445,
+          "ST_OT": 3461,
           "USFS": 379,
-          "TOTAL": 3963
+          "TOTAL": 3979
         },
         "acres": {
           "BIA": 2,
           "BLM": 9646,
           "FWS": 4,
           "NPS": 25604,
-          "ST_OT": 146883,
+          "ST_OT": 146964,
           "USFS": 54530,
-          "TOTAL": 236669
+          "TOTAL": 236750
         }
       },
       {
@@ -543,21 +525,21 @@
         "area": "Great Basin",
         "fires": {
           "BIA": 46,
-          "BLM": 1158,
+          "BLM": 1159,
           "FWS": 3,
           "NPS": 43,
-          "ST_OT": 1042,
-          "USFS": 510,
-          "TOTAL": 2802
+          "ST_OT": 1043,
+          "USFS": 512,
+          "TOTAL": 2806
         },
         "acres": {
           "BIA": 3172,
-          "BLM": 1255904,
+          "BLM": 1257521,
           "FWS": 2,
           "NPS": 802,
-          "ST_OT": 274177,
-          "USFS": 392983,
-          "TOTAL": 1927040
+          "ST_OT": 274178,
+          "USFS": 392984,
+          "TOTAL": 1928659
         }
       },
       {
@@ -589,8 +571,8 @@
           "FWS": 17,
           "NPS": 35,
           "ST_OT": 1605,
-          "USFS": 448,
-          "TOTAL": 2758
+          "USFS": 449,
+          "TOTAL": 2759
         },
         "acres": {
           "BIA": 1682,
@@ -630,53 +612,53 @@
           "BLM": 2,
           "FWS": 110,
           "NPS": 122,
-          "ST_OT": 32526,
-          "USFS": 762,
-          "TOTAL": 34658
+          "ST_OT": 32559,
+          "USFS": 767,
+          "TOTAL": 34696
         },
         "acres": {
           "BIA": 87878,
           "BLM": 72,
           "FWS": 52775,
           "NPS": 44890,
-          "ST_OT": 1240424,
-          "USFS": 61094,
-          "TOTAL": 1487133
+          "ST_OT": 1240813,
+          "USFS": 61179,
+          "TOTAL": 1487608
         }
       }
     ],
     "totals": {
       "fires": {
         "BIA": 2875,
-        "BLM": 2502,
+        "BLM": 2503,
         "FWS": 202,
         "NPS": 380,
-        "ST_OT": 53623,
-        "USFS": 5337,
-        "TOTAL": 64919
+        "ST_OT": 53684,
+        "USFS": 5354,
+        "TOTAL": 64998
       },
       "acres": {
         "BIA": 240118,
-        "BLM": 3389510,
+        "BLM": 3391127,
         "FWS": 98892,
         "NPS": 92626,
-        "ST_OT": 3708727,
-        "USFS": 1507573,
-        "TOTAL": 9037447
+        "ST_OT": 3709897,
+        "USFS": 1507663,
+        "TOTAL": 9040324
       }
     },
     "ten_year_average": {
-      "fires": 49131,
-      "acres": 6332627
+      "fires": 49258,
+      "acres": 6346392
     }
   },
-  "predictive_services_discussion": "Mostly dry conditions will continue across the contiguous U.S. today. Isolated showers and thunderstorms are expected in eastern North Carolina, far south Florida, and the Southwest into the Four Corners. Breezy and dry south to southwesterly winds will develop in the southern High Plains northeastward into the Midwest, with locally low relative humidity. However, rainfall over the past two weeks will mitigate conditions in most areas. Lighter winds but continued very dry conditions are expected in the Lower Mississippi Valley with minimum relative humidity as low as 20%. Above normal temperatures will persist in California, the northern half of the West, and northern Plains into the Midwest. Cooler temperatures and drier conditions are expected in Interior Alaska, with drier conditions persisting in south-central Alaska. Breezy and moist trade winds will continue in Hawai’i with occasional showers. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
+  "predictive_services_discussion": "Dry conditions will continue across the contiguous U.S. today, with the exceptions to the dry pattern isolated to scattered showers and thunderstorms in the Southwest and the Four Corners and isolated showers west of the Cascades. Winds across the country will be most light as well except for locally breezy southwest winds east of the Sierra and breezy south winds on portions of the High Plains. Breezy northeast winds are expected along the Mid-Atlantic and Northeast coast, as well. Very dry conditions with minimum relative humidity as low as 20% will persist in the Lower Mississippi Valley. Above normal temperatures will persist in the northern Rockies eastward to the Midwest, while cooler temperatures are expected in the Northwest and California as onshore flow strengthens. Cooler temperatures and dry conditions will persist in Interior Alaska, but a strong storm is expected to move into southwest and south-central Alaska with areas of heavy rain and strong winds near the coast. Breezy and moist trade winds will continue in Hawai’i with occasional showers. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-19T12:56:11Z",
+  "generated_utc": "2026-10-19T13:26:26Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
-  "pdf_bytes": 191370,
+  "pdf_bytes": 205593,
   "fetch": {
-    "fetched_utc": "2026-10-19T12:56:10Z",
-    "duration_seconds": 0.13
+    "fetched_utc": "2026-10-19T13:26:25Z",
+    "duration_seconds": 0.11
   }
 }
