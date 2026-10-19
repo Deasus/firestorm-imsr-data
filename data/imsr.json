@@ -672,11 +672,11 @@
   },
   "predictive_services_discussion": "Mostly dry conditions will continue across the contiguous U.S. today. Isolated showers and thunderstorms are expected in eastern North Carolina, far south Florida, and the Southwest into the Four Corners. Breezy and dry south to southwesterly winds will develop in the southern High Plains northeastward into the Midwest, with locally low relative humidity. However, rainfall over the past two weeks will mitigate conditions in most areas. Lighter winds but continued very dry conditions are expected in the Lower Mississippi Valley with minimum relative humidity as low as 20%. Above normal temperatures will persist in California, the northern half of the West, and northern Plains into the Midwest. Cooler temperatures and drier conditions are expected in Interior Alaska, with drier conditions persisting in south-central Alaska. Breezy and moist trade winds will continue in Hawai’i with occasional showers. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-19T08:24:00Z",
+  "generated_utc": "2026-10-19T08:54:14Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 191370,
   "fetch": {
-    "fetched_utc": "2026-10-19T08:23:59Z",
-    "duration_seconds": 0.18
+    "fetched_utc": "2026-10-19T08:54:13Z",
+    "duration_seconds": 0.11
   }
 }
