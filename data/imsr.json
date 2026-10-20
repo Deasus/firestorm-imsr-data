@@ -654,11 +654,11 @@
   },
   "predictive_services_discussion": "Dry conditions will continue across the contiguous U.S. today, with the exceptions to the dry pattern isolated to scattered showers and thunderstorms in the Southwest and the Four Corners and isolated showers west of the Cascades. Winds across the country will be most light as well except for locally breezy southwest winds east of the Sierra and breezy south winds on portions of the High Plains. Breezy northeast winds are expected along the Mid-Atlantic and Northeast coast, as well. Very dry conditions with minimum relative humidity as low as 20% will persist in the Lower Mississippi Valley. Above normal temperatures will persist in the northern Rockies eastward to the Midwest, while cooler temperatures are expected in the Northwest and California as onshore flow strengthens. Cooler temperatures and dry conditions will persist in Interior Alaska, but a strong storm is expected to move into southwest and south-central Alaska with areas of heavy rain and strong winds near the coast. Breezy and moist trade winds will continue in Hawai’i with occasional showers. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-20T02:21:40Z",
+  "generated_utc": "2026-10-20T02:51:53Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 205593,
   "fetch": {
-    "fetched_utc": "2026-10-20T02:21:39Z",
-    "duration_seconds": 0.12
+    "fetched_utc": "2026-10-20T02:51:52Z",
+    "duration_seconds": 0.55
   }
 }
