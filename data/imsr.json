@@ -654,11 +654,11 @@
   },
   "predictive_services_discussion": "Low pressure will slowly move into the central Plains, with scattered showers and thunderstorms from eastern New Mexico into much of the central and northern Plains. Showers and high-elevation snow will diminish in the central and southern Rockies through the day. A dry cold front will move through the Great Lakes, with very dry air behind it as relative humidity falls to 20-30% in the Upper Midwest, but temperatures will be much cooler behind the front and winds will be light to moderate. Dry conditions are expected elsewhere in the West with temperatures near to slightly below normal. Easterly winds will persist across much of the Southeast with elevated relative humidity and showers along the immediate coast. To the west, very dry conditions with minimum relative humidity of 15-30% and well above normal temperatures will persist in the Lower Mississippi Valley. A strong storm in the Bering Sea will continue to bring strong winds, heavy snow, and blizzard conditions to portions of western Alaska and the western Interior, and slowly push east into the center of the state. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-25T13:21:59Z",
+  "generated_utc": "2026-10-25T13:52:09Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 201085,
   "fetch": {
-    "fetched_utc": "2026-10-25T13:21:57Z",
-    "duration_seconds": 0.5
+    "fetched_utc": "2026-10-25T13:52:08Z",
+    "duration_seconds": 0.1
   }
 }
