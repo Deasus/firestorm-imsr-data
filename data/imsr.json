@@ -654,11 +654,11 @@
   },
   "predictive_services_discussion": "Low pressure will continue to slowly move through the central and southern Rockies, with areas of heavy rainfall and very high-elevation snow. A cold front will move through the central Plains and Upper Midwest, but showers and thunderstorms along the front will be isolated. Breezy southwest winds will develop in Minnesota to northern Wisconsin and bring locally elevated conditions. Easterly winds will continue across much of the Southeast with elevated relative humidity and showers along the immediate coast. To the west, easterly winds will be lighter, but very dry conditions with minimum relative humidity of 15-30% and well above normal temperatures will persist in the Lower Mississippi Valley for locally elevated conditions and continued elevated initial attack. In most of the West, temperatures will be near to below normal with overall dry conditions outside the central/southern Rockies. Locally breezy and dry north winds will occur in northern California and dry conditions will persist in the Northeast. A strong storm in the Bering Sea will bring strong winds, heavy snow, and blizzard conditions to portions of western Alaska and the western Interior, with drier conditions to the east. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-25T12:21:31Z",
+  "generated_utc": "2026-10-25T12:51:41Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 204613,
   "fetch": {
-    "fetched_utc": "2026-10-25T12:21:30Z",
-    "duration_seconds": 0.33
+    "fetched_utc": "2026-10-25T12:51:40Z",
+    "duration_seconds": 0.24
   }
 }
