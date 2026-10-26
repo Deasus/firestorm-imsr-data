@@ -645,11 +645,11 @@
   },
   "predictive_services_discussion": "Low pressure weakens over the Plains with scattered showers and isolated thunderstorms, and a dry cold front will move through the Northeast. A Pacific storm will move into the Northwest and northern Rockies with a cold front producing light to moderate rain the lower elevations and snow above 5,000 to 7,000 feet. Dry air with near to below normal temperatures are expected in California and the Greater Four Corners. Gusty easterly winds will diminish in the Southeast today, but temperatures will remain above normal with minimum relative humidity of 20-30% in the Lower Mississippi Valley. A strong storm will move east through Alaska, with heavy snow and localized blizzard conditions for the central Interior, while western Alaska observes less precipitation and light rain and snow occurs in south-central Alaska. Trade winds are expected to remain light in Hawai’i with isolated to scattered showers. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-26T13:32:59Z",
+  "generated_utc": "2026-10-26T14:03:14Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
-  "pdf_bytes": 198188,
+  "pdf_bytes": 165291,
   "fetch": {
-    "fetched_utc": "2026-10-26T13:32:58Z",
-    "duration_seconds": 0.46
+    "fetched_utc": "2026-10-26T14:03:13Z",
+    "duration_seconds": 0.53
   }
 }
