@@ -645,11 +645,11 @@
   },
   "predictive_services_discussion": "A Pacific storm will continue to move through the Northwest and northern Rockies with light to moderate rain the lower elevations and snow above 5,000 to 6,000 feet. Dry air with near-normal temperatures are expected in California and the Greater Four Corners. Rain will diminish in the Upper Midwest during the day, but temperatures will remain above normal. Temperatures will also remain above normal across the Mid and Lower Mississippi Valley, with below average minimum relative humidity of 18-35%. However, winds will continue to remain light in the region. A weakening dry cold front will move through the Mid-Atlantic, with breezy and dry northwest winds in New England diminishing during the day. Another strong storm will move into western Alaska with areas of heavy snow and strong winds, especially for the Seward Peninsula. Deep tropical moisture will move across Hawai’i today and tonight with widespread showers and scattered thunderstorms, focused on the western islands. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-27T21:07:30Z",
+  "generated_utc": "2026-10-27T21:37:42Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 199862,
   "fetch": {
-    "fetched_utc": "2026-10-27T21:07:29Z",
-    "duration_seconds": 0.1
+    "fetched_utc": "2026-10-27T21:37:42Z",
+    "duration_seconds": 0.35
   }
 }
