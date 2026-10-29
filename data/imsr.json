@@ -636,11 +636,11 @@
   },
   "predictive_services_discussion": "Mostly dry weather is expected in the West with near to below normal temperatures as the storm that affected the Northwest earlier this week moves into Canada. Showers and thunderstorms will develop in central and west Texas today as moisture from the remnants of Tropical Storm Vance in the eastern Pacific move in, with localized flooding possible. Warm and dry conditions will continue to the east across much of the Mississippi Valley, but relative humidity will remain near or above 40% from Missouri northward. Low minimum relative humidity of 20- 30% will persist, however, in eastern Louisiana and Mississippi amid light winds. A dry cold front will move through the Great Lakes and Northeast, with locally breezy southwest winds in the Upper Ohio Valley. Precipitation will wind down today in western Alaska while strong winds occur off the Alaska Range in portions of the central and eastern Interior, and a new storm will move into western Alaska overnight. Showers and isolated thunderstorms will continue across Hawai’i today but will be less widespread than earlier in the week with a decrease in winds also expected. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-29T13:26:43Z",
+  "generated_utc": "2026-10-29T13:56:55Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 200429,
   "fetch": {
-    "fetched_utc": "2026-10-29T13:26:42Z",
-    "duration_seconds": 0.28
+    "fetched_utc": "2026-10-29T13:56:54Z",
+    "duration_seconds": 0.33
   }
 }
