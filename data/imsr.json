@@ -636,11 +636,11 @@
   },
   "predictive_services_discussion": "A dry cold front will continue to move through the Ohio Valley and Mid-Atlantic today, with breezy northwest winds in the Northeast. These winds will be accompanied by relative humidity above 40% keeping fire potential low. Dry and warm conditions will continue in the Southeast and Lower Mississippi Valley, but relative humidity will be higher than previous days and generally above 30%, except in portions of the southern Appalachians which may drop as low as 25%. Scattered showers and thunderstorms will develop on the central and southern Plains due to moisture from the remnants of Pacific Tropical Storm Vance. Farther west, moisture from Vance will also move into the Southwest and northward into the Great Basin and central Rockies, where scattered showers and isolated thunderstorms are expected. Due to the warm nature of the system, snow will be confined to the highest elevations of the central Rockies. Precipitation will wind down today in western Alaska while strong winds occur off the Alaska Range in portions of the central and eastern Interior, while heavy snow is expected in the Alaska Range and Chugach Mountains. Trade winds return to Hawai’i but elevated low-level moisture will result in scattered and locally heavy windward showers. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-30T14:13:01Z",
+  "generated_utc": "2026-10-30T14:43:17Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 198207,
   "fetch": {
-    "fetched_utc": "2026-10-30T14:13:00Z",
-    "duration_seconds": 0.41
+    "fetched_utc": "2026-10-30T14:43:16Z",
+    "duration_seconds": 0.2
   }
 }
