@@ -1,6 +1,6 @@
 {
   "summary": {
-    "report_date_human": "Thursday October 29, 2026",
+    "report_date_human": "Friday October 30, 2026",
     "report_time": "0730 MDT",
     "national_preparedness_level": 1,
     "initial_attack_activity": "Light (63 fires)",
@@ -26,12 +26,12 @@
       "gacc": "NWCC",
       "pl": 1,
       "incidents": 9,
-      "cumulative_acres": 316559,
+      "cumulative_acres": 316590,
       "crews": 2,
       "engines": 7,
       "helicopters": 2,
-      "total_personnel": 314,
-      "change_in_personnel": -190
+      "total_personnel": 304,
+      "change_in_personnel": -10
     },
     {
       "gacc": "ONCC",
@@ -39,10 +39,10 @@
       "incidents": 1,
       "cumulative_acres": 1365,
       "crews": 1,
-      "engines": 4,
+      "engines": 1,
       "helicopters": 0,
-      "total_personnel": 63,
-      "change_in_personnel": 0
+      "total_personnel": 22,
+      "change_in_personnel": -41
     },
     {
       "gacc": "OSCC",
@@ -53,18 +53,18 @@
       "engines": 0,
       "helicopters": 0,
       "total_personnel": 0,
-      "change_in_personnel": -24
+      "change_in_personnel": 0
     },
     {
       "gacc": "NRCC",
       "pl": 1,
-      "incidents": 1,
-      "cumulative_acres": 35520,
+      "incidents": 0,
+      "cumulative_acres": 0,
       "crews": 0,
       "engines": 0,
       "helicopters": 0,
-      "total_personnel": 1,
-      "change_in_personnel": -3
+      "total_personnel": 0,
+      "change_in_personnel": -1
     },
     {
       "gacc": "GBCC",
@@ -103,34 +103,34 @@
       "gacc": "EACC",
       "pl": 1,
       "incidents": 4,
-      "cumulative_acres": 1679,
+      "cumulative_acres": 1715,
       "crews": 0,
-      "engines": 8,
+      "engines": 3,
       "helicopters": 0,
-      "total_personnel": 123,
-      "change_in_personnel": -13
+      "total_personnel": 113,
+      "change_in_personnel": -10
     },
     {
       "gacc": "SACC",
       "pl": 2,
-      "incidents": 16,
-      "cumulative_acres": 4223,
+      "incidents": 15,
+      "cumulative_acres": 4937,
       "crews": 0,
       "engines": 21,
-      "helicopters": 2,
-      "total_personnel": 130,
-      "change_in_personnel": 5
+      "helicopters": 1,
+      "total_personnel": 136,
+      "change_in_personnel": 6
     },
     {
       "gacc": "Total",
       "pl": null,
-      "incidents": 33,
-      "cumulative_acres": 364386,
+      "incidents": 31,
+      "cumulative_acres": 329647,
       "crews": 3,
-      "engines": 40,
-      "helicopters": 4,
-      "total_personnel": 637,
-      "change_in_personnel": -225
+      "engines": 32,
+      "helicopters": 3,
+      "total_personnel": 581,
+      "change_in_personnel": -56
     }
   ],
   "gacc_sections": [
@@ -138,25 +138,25 @@
       "gacc": "SACC",
       "area": "Southern Area",
       "preparedness_level": 2,
-      "new_fires": 32,
+      "new_fires": 28,
       "new_large_incidents": 1,
       "uncontained_large_fires": 4,
-      "narrative": "* Redbud, Oklahoma DOF. Ten miles southeast of Wilburton, OK. Hardwood litter. Minimal fire behavior. Bee Haven 2 24-06, Florida Forest Service. Twenty-eight miles northwest of Lake City, FL. Southern rough. Minimal fire behavior with smoldering. Range 47B, National Forests in Mississippi, USFS. Three miles northeast of Brooklyn, MS. Southern rough and grass. Minimal fire behavior with smoldering. Structures threatened. Reduction in acreage due to more accurate mapping. Hewitt Lane, South Carolina Forestry Commission. Seven miles south of Georgetown, SC. Timber and southern rough. No new information."
+      "narrative": "Bee Haven 2 24-06, Florida Forest Service. Twenty-eight miles northwest of Lake City, FL. Southern rough. Minimal fire behavior with smoldering. Range 47B, National Forests in Mississippi, USFS. Three miles northeast of Brooklyn, MS. Southern rough and grass. Minimal fire behavior with smoldering. Redbud, Oklahoma DOF. Ten miles southeast of Wilburton, OK. Hardwood litter. No new information. Hewitt Lane, South Carolina Forestry Commission. Seven miles south of Georgetown, SC. Timber and southern rough. No new information. Last narrative report unless new information is received."
     },
     {
       "gacc": "EACC",
       "area": "Eastern Area",
       "preparedness_level": 1,
-      "new_fires": 23,
+      "new_fires": 14,
       "new_large_incidents": 0,
       "uncontained_large_fires": 3,
-      "narrative": "Cherry Plain, New York State Department of Environmental Conservation. Seven miles northeast of Stephentown, NY. Hardwood litter. Moderate fire behavior with backing and creeping. Black River, Michigan DNR. Four miles south of Wakefield, MI. Timber and grass. Minimal fire behavior with smoldering. Ridge, Michigan DNR. Six miles north of Negaunee, MI. Timber and hardwood litter. Minimal fire behavior with smoldering. Structures threatened. Trail closures in effect."
+      "narrative": "Ridge, Michigan DNR. Six miles north of Negaunee, MI. Timber and hardwood litter. Minimal fire behavior with smoldering. Structures threatened. Trail closures in effect. Precipitation occurred over the fire area yesterday. Black River, Michigan DNR. Four miles south of Wakefield, MI. Timber and grass. Minimal fire behavior. Precipitation occurred over the fire area yesterday. Last report unless significant activity occurs. Cherry Plain, New York State Department of Environmental Conservation. Seven miles northeast of Stephentown, NY. Hardwood litter. No new information."
     },
     {
       "gacc": "NWCC",
       "area": "Northwest Area",
       "preparedness_level": 1,
-      "new_fires": 0,
+      "new_fires": 3,
       "new_large_incidents": 0,
       "uncontained_large_fires": 2,
       "narrative": "Austin, Mt. Hood NF, USFS. Twenty-five miles southeast of Estacada, OR. Brush, timber and closed timber litter. Minimal fire behavior with smoldering. Area, road and trail closures in effect. Sisi, Okanogan-Wenatchee NF, USFS. Ten miles northwest of Stehekin, WA. Timber and closed timber litter. Minimal fire behavior with smoldering, creeping and backing. Residences threatened. Area, road and trail closures in effect."
@@ -193,8 +193,8 @@
           "FWS": 0,
           "NPS": 0,
           "ST_OT": 0,
-          "USFS": 0,
-          "TOTAL": 0
+          "USFS": 3,
+          "TOTAL": 3
         },
         "acres": {
           "BIA": 0,
@@ -213,18 +213,18 @@
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 5,
+          "ST_OT": 4,
           "USFS": 0,
-          "TOTAL": 5
+          "TOTAL": 4
         },
         "acres": {
           "BIA": 0,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 11,
+          "ST_OT": 1,
           "USFS": 0,
-          "TOTAL": 11
+          "TOTAL": 1
         }
       },
       {
@@ -234,18 +234,18 @@
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 2,
+          "ST_OT": 5,
           "USFS": 0,
-          "TOTAL": 2
+          "TOTAL": 5
         },
         "acres": {
           "BIA": 0,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 0,
+          "ST_OT": 1,
           "USFS": 0,
-          "TOTAL": 0
+          "TOTAL": 1
         }
       },
       {
@@ -273,12 +273,12 @@
         "area": "Great Basin",
         "fires": {
           "BIA": 0,
-          "BLM": 0,
+          "BLM": 3,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 0,
-          "USFS": 0,
-          "TOTAL": 0
+          "ST_OT": 1,
+          "USFS": 4,
+          "TOTAL": 8
         },
         "acres": {
           "BIA": 0,
@@ -287,28 +287,28 @@
           "NPS": 0,
           "ST_OT": 0,
           "USFS": 0,
-          "TOTAL": 0
+          "TOTAL": 1
         }
       },
       {
         "area": "Southwest",
         "fires": {
-          "BIA": 0,
+          "BIA": 1,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
           "ST_OT": 0,
           "USFS": 0,
-          "TOTAL": 0
+          "TOTAL": 1
         },
         "acres": {
-          "BIA": 0,
+          "BIA": 1,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
           "ST_OT": 0,
           "USFS": 0,
-          "TOTAL": 0
+          "TOTAL": 1
         }
       },
       {
@@ -319,8 +319,8 @@
           "FWS": 0,
           "NPS": 0,
           "ST_OT": 0,
-          "USFS": 1,
-          "TOTAL": 1
+          "USFS": 0,
+          "TOTAL": 0
         },
         "acres": {
           "BIA": 0,
@@ -339,60 +339,60 @@
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 23,
-          "USFS": 0,
-          "TOTAL": 23
+          "ST_OT": 13,
+          "USFS": 1,
+          "TOTAL": 14
         },
         "acres": {
           "BIA": 0,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 8,
+          "ST_OT": 4,
           "USFS": 0,
-          "TOTAL": 8
+          "TOTAL": 4
         }
       },
       {
         "area": "Southern Area",
         "fires": {
-          "BIA": 2,
-          "BLM": 0,
-          "FWS": 1,
-          "NPS": 1,
-          "ST_OT": 27,
-          "USFS": 1,
-          "TOTAL": 32
-        },
-        "acres": {
-          "BIA": 2,
+          "BIA": 1,
           "BLM": 0,
           "FWS": 0,
           "NPS": 0,
-          "ST_OT": 96,
-          "USFS": 5,
-          "TOTAL": 104
+          "ST_OT": 27,
+          "USFS": 0,
+          "TOTAL": 28
+        },
+        "acres": {
+          "BIA": 0,
+          "BLM": 0,
+          "FWS": 0,
+          "NPS": 0,
+          "ST_OT": 135,
+          "USFS": 0,
+          "TOTAL": 135
         }
       }
     ],
     "totals": {
       "fires": {
         "BIA": 2,
-        "BLM": 0,
-        "FWS": 1,
-        "NPS": 1,
-        "ST_OT": 57,
-        "USFS": 2,
+        "BLM": 3,
+        "FWS": 0,
+        "NPS": 0,
+        "ST_OT": 50,
+        "USFS": 8,
         "TOTAL": 63
       },
       "acres": {
-        "BIA": 2,
+        "BIA": 1,
         "BLM": 0,
         "FWS": 0,
         "NPS": 0,
-        "ST_OT": 116,
-        "USFS": 5,
-        "TOTAL": 123
+        "ST_OT": 141,
+        "USFS": 1,
+        "TOTAL": 143
       }
     }
   },
@@ -422,22 +422,22 @@
       {
         "area": "Northwest",
         "fires": {
-          "BIA": 248,
+          "BIA": 262,
           "BLM": 313,
           "FWS": 28,
           "NPS": 52,
-          "ST_OT": 1719,
-          "USFS": 832,
-          "TOTAL": 3192
+          "ST_OT": 1920,
+          "USFS": 863,
+          "TOTAL": 3438
         },
         "acres": {
-          "BIA": 117135,
-          "BLM": 1977561,
+          "BIA": 231646,
+          "BLM": 1978262,
           "FWS": 34146,
           "NPS": 19038,
-          "ST_OT": 413804,
-          "USFS": 464544,
-          "TOTAL": 3026229
+          "ST_OT": 566009,
+          "USFS": 519369,
+          "TOTAL": 3348470
         }
       },
       {
@@ -447,18 +447,18 @@
           "BLM": 18,
           "FWS": 2,
           "NPS": 33,
-          "ST_OT": 2384,
+          "ST_OT": 2388,
           "USFS": 421,
-          "TOTAL": 2920
+          "TOTAL": 2924
         },
         "acres": {
           "BIA": 7736,
           "BLM": 70418,
           "FWS": 5,
           "NPS": 53,
-          "ST_OT": 20089,
+          "ST_OT": 20090,
           "USFS": 8376,
-          "TOTAL": 106677
+          "TOTAL": 106678
         }
       },
       {
@@ -468,9 +468,9 @@
           "BLM": 79,
           "FWS": 5,
           "NPS": 46,
-          "ST_OT": 3518,
+          "ST_OT": 3523,
           "USFS": 384,
-          "TOTAL": 4042
+          "TOTAL": 4047
         },
         "acres": {
           "BIA": 2,
@@ -507,63 +507,63 @@
         "area": "Great Basin",
         "fires": {
           "BIA": 46,
-          "BLM": 1164,
+          "BLM": 1174,
           "FWS": 3,
-          "NPS": 43,
-          "ST_OT": 1053,
-          "USFS": 523,
-          "TOTAL": 2832
+          "NPS": 44,
+          "ST_OT": 1059,
+          "USFS": 539,
+          "TOTAL": 2865
         },
         "acres": {
           "BIA": 3172,
-          "BLM": 1257503,
+          "BLM": 1257775,
           "FWS": 2,
-          "NPS": 802,
-          "ST_OT": 274204,
-          "USFS": 393250,
-          "TOTAL": 1928934
+          "NPS": 784,
+          "ST_OT": 274842,
+          "USFS": 393255,
+          "TOTAL": 1929830
         }
       },
       {
         "area": "Southwest",
         "fires": {
-          "BIA": 693,
+          "BIA": 694,
           "BLM": 214,
           "FWS": 5,
           "NPS": 30,
           "ST_OT": 817,
           "USFS": 1035,
-          "TOTAL": 2794
+          "TOTAL": 2795
         },
         "acres": {
-          "BIA": 3643,
+          "BIA": 3644,
           "BLM": 6414,
           "FWS": 7131,
           "NPS": 806,
           "ST_OT": 81018,
           "USFS": 113647,
-          "TOTAL": 212658
+          "TOTAL": 212659
         }
       },
       {
         "area": "Rocky Mountain",
         "fires": {
           "BIA": 192,
-          "BLM": 462,
+          "BLM": 506,
           "FWS": 17,
           "NPS": 35,
           "ST_OT": 1610,
           "USFS": 451,
-          "TOTAL": 2767
+          "TOTAL": 2811
         },
         "acres": {
           "BIA": 1682,
-          "BLM": 23132,
+          "BLM": 24965,
           "FWS": 3964,
           "NPS": 1412,
           "ST_OT": 1330668,
           "USFS": 210789,
-          "TOTAL": 1571647
+          "TOTAL": 1573480
         }
       },
       {
@@ -573,74 +573,74 @@
           "BLM": 0,
           "FWS": 25,
           "NPS": 16,
-          "ST_OT": 8668,
-          "USFS": 387,
-          "TOTAL": 9319
+          "ST_OT": 8751,
+          "USFS": 388,
+          "TOTAL": 9403
         },
         "acres": {
           "BIA": 1086,
           "BLM": 0,
           "FWS": 344,
           "NPS": 17,
-          "ST_OT": 85049,
+          "ST_OT": 85570,
           "USFS": 86293,
-          "TOTAL": 172788
+          "TOTAL": 173309
         }
       },
       {
         "area": "Southern Area",
         "fires": {
-          "BIA": 1164,
+          "BIA": 1165,
           "BLM": 2,
           "FWS": 111,
           "NPS": 127,
-          "ST_OT": 33890,
-          "USFS": 798,
-          "TOTAL": 36092
+          "ST_OT": 34007,
+          "USFS": 799,
+          "TOTAL": 36211
         },
         "acres": {
           "BIA": 87855,
           "BLM": 72,
           "FWS": 52776,
           "NPS": 44931,
-          "ST_OT": 1256983,
-          "USFS": 61946,
-          "TOTAL": 1504562
+          "ST_OT": 1256445,
+          "USFS": 63228,
+          "TOTAL": 1505306
         }
       }
     ],
     "totals": {
       "fires": {
-        "BIA": 2930,
-        "BLM": 2514,
+        "BIA": 2946,
+        "BLM": 2568,
         "FWS": 203,
-        "NPS": 386,
-        "ST_OT": 55420,
-        "USFS": 5468,
-        "TOTAL": 66921
+        "NPS": 387,
+        "ST_OT": 55836,
+        "USFS": 5517,
+        "TOTAL": 67457
       },
       "acres": {
-        "BIA": 243031,
-        "BLM": 3390970,
+        "BIA": 357543,
+        "BLM": 3393775,
         "FWS": 98893,
-        "NPS": 92668,
-        "ST_OT": 3727397,
-        "USFS": 1508784,
-        "TOTAL": 9061741
+        "NPS": 92650,
+        "ST_OT": 3880225,
+        "USFS": 1564894,
+        "TOTAL": 9387979
       }
     },
     "ten_year_average": {
-      "fires": 50677,
-      "acres": 6429570
+      "fires": 50746,
+      "acres": 6430994
     }
   },
-  "predictive_services_discussion": "Mostly dry weather is expected in the West with near to below normal temperatures as the storm that affected the Northwest earlier this week moves into Canada. Showers and thunderstorms will develop in central and west Texas today as moisture from the remnants of Tropical Storm Vance in the eastern Pacific move in, with localized flooding possible. Warm and dry conditions will continue to the east across much of the Mississippi Valley, but relative humidity will remain near or above 40% from Missouri northward. Low minimum relative humidity of 20- 30% will persist, however, in eastern Louisiana and Mississippi amid light winds. A dry cold front will move through the Great Lakes and Northeast, with locally breezy southwest winds in the Upper Ohio Valley. Precipitation will wind down today in western Alaska while strong winds occur off the Alaska Range in portions of the central and eastern Interior, and a new storm will move into western Alaska overnight. Showers and isolated thunderstorms will continue across Hawai’i today but will be less widespread than earlier in the week with a decrease in winds also expected. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
+  "predictive_services_discussion": "A dry cold front will continue to move through the Ohio Valley and Mid-Atlantic today, with breezy northwest winds in the Northeast. These winds will be accompanied by relative humidity above 40% keeping fire potential low. Dry and warm conditions will continue in the Southeast and Lower Mississippi Valley, but relative humidity will be higher than previous days and generally above 30%, except in portions of the southern Appalachians which may drop as low as 25%. Scattered showers and thunderstorms will develop on the central and southern Plains due to moisture from the remnants of Pacific Tropical Storm Vance. Farther west, moisture from Vance will also move into the Southwest and northward into the Great Basin and central Rockies, where scattered showers and isolated thunderstorms are expected. Due to the warm nature of the system, snow will be confined to the highest elevations of the central Rockies. Precipitation will wind down today in western Alaska while strong winds occur off the Alaska Range in portions of the central and eastern Interior, while heavy snow is expected in the Alaska Range and Chugach Mountains. Trade winds return to Hawai’i but elevated low-level moisture will result in scattered and locally heavy windward showers. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-30T13:12:28Z",
+  "generated_utc": "2026-10-30T13:42:48Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
-  "pdf_bytes": 200429,
+  "pdf_bytes": 198207,
   "fetch": {
-    "fetched_utc": "2026-10-30T13:12:27Z",
-    "duration_seconds": 0.43
+    "fetched_utc": "2026-10-30T13:42:47Z",
+    "duration_seconds": 0.54
   }
 }
