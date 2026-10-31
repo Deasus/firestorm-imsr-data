@@ -636,11 +636,11 @@
   },
   "predictive_services_discussion": "Very dry air is expected in the central and southern Appalachians with minimum relative humidity falling to 20- 30%, with local areas in the teens. However, winds are expected to be light today. Farther north, locally breezy northwest winds will develop in New England amid minimum relative humidity as low as 30% creating locally elevated conditions along the Maine coast. Above normal temperatures will continue in the Mississippi Valley, but Gulf moisture will move northward with widespread showers and scattered thunderstorms in the Lower to Mid-Mississippi Valley bringing some relief from the recent very dry conditions. Farther north into the Great Lakes, precipitation will be much more isolated and light. In the West, deep tropical moisture will move northward through southern California and Arizona into the Great Basin with widespread showers and isolated thunderstorms, with scattered and light showers for northern California and the Northwest. Strong southerly winds will begin to wind down today across the Alaska Range, while scattered light precipitation occurs in western and south-central Alaska. Trade winds will weaken across Hawai’i amid a moist airmass but showers will be less than previous days and mostly occur on the windward sides. National Predictive Services Outlook (7-Day Significant Fire Potential Outlook) National Weather Service, Storm Prediction Center: Fire Weather Outlook Map and discussion National Weather Service: Fire Weather Hazards Map National Weather Service, Weather Prediction Center: National Forecast Chart and Short Range Forecast Discussion 6 Minutes for Safety topics can be found here.",
   "parse_warnings": [],
-  "generated_utc": "2026-10-31T15:34:08Z",
+  "generated_utc": "2026-10-31T16:04:21Z",
   "source_url": "https://www.nifc.gov/nicc-files/sitreprt.pdf",
   "pdf_bytes": 194919,
   "fetch": {
-    "fetched_utc": "2026-10-31T15:34:07Z",
-    "duration_seconds": 0.17
+    "fetched_utc": "2026-10-31T16:04:20Z",
+    "duration_seconds": 0.09
   }
 }
